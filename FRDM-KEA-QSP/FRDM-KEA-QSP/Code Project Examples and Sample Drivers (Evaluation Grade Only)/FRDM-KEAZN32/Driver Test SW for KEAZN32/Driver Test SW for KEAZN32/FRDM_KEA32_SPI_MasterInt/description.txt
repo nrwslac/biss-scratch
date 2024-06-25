@@ -1,0 +1,2 @@
+*Provides a template for SPI master transfer with interrupt mode
+*Generates an echo with the FRDM+KEA32 using the Slave project

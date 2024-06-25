@@ -1,0 +1,3108 @@
+Archive member included because of file (symbol)
+
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(sprintf.o)
+                              ./MSF/board/frdm_kea/arduino.o (sprintf)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsnprintf.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(sprintf.o) (vsnprintf)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o)
+                              ./src/lcd_routines.o (atoi)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(exit.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o (exit)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(rand.o)
+                              ./src/lcd_routines.o (rand)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__strtoul.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o) (__strtoul)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memcpy.o)
+                              ./MSF/common/conio.o (memcpy)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memset.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o (memset)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(strlen.o)
+                              ./src/lcd_routines.o (strlen)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__strtoul.o) (isalpha)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(errno.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o) (errno)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsscanf.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o) (__StringRead)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__filll_mem.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memset.o) (__fill_mem)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(scanformat_.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsscanf.o) (__sformatter)
+c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_sqi.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__strtoul.o) (__gnu_thumb1_case_sqi)
+c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(scanformat_.o) (__gnu_thumb1_case_uqi)
+c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+                              ./MSF/common/waveio.o (__aeabi_uidiv)
+c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+                              ./src/lcd_routines.o (__aeabi_idiv)
+c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+                              c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(extendsfdf2.o)
+                              ./MSF/board/frdm_kea/arduino.o (__aeabi_f2d)
+c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_clzsi2.o)
+                              c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(extendsfdf2.o) (__clzsi2)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o (__init_cpp)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(exit.o) (__destroy_global_chain)
+C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+                              C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o (__copy_rom_sections_to_ram)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(errno.o)
+g_msf_awritechannels
+                    0x4               ./MSF/board/frdm_kea/arduino.o
+gmsf_delaycnt       0x4               ./MSF/platform/kea/msf.o
+sc                  0x4               ./src/kbi.o
+gmsf_systime        0x4               ./MSF/platform/kea/msf.o
+lcd_mode            0x1               ./src/lcd_routines.o
+button_state        0x1               ./src/lcd_routines.o
+coniob_rxQ          0x42              ./MSF/common/coniob.o
+coniob_txQ          0x42              ./MSF/common/coniob.o
+u8Port              0x4               ./src/kbi.o
+coniob_nowSending   0x4               ./MSF/common/coniob.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .text.__iar_program_start
+                0x00000000        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .text          0x00000000        0x0 ./MSF/board/frdm_kea/arduino.o
+ .data          0x00000000        0x0 ./MSF/board/frdm_kea/arduino.o
+ .bss           0x00000000        0x0 ./MSF/board/frdm_kea/arduino.o
+ .rodata.g_msf_analogpins_arduino
+                0x00000000       0x1c ./MSF/board/frdm_kea/arduino.o
+ .text.arduino_init
+                0x00000000       0x74 ./MSF/board/frdm_kea/arduino.o
+ .text.val_to_cnval
+                0x00000000       0x14 ./MSF/board/frdm_kea/arduino.o
+ .text.analogWrite
+                0x00000000      0x124 ./MSF/board/frdm_kea/arduino.o
+ .rodata.analogWrite
+                0x00000000       0x3c ./MSF/board/frdm_kea/arduino.o
+ .text.analogWriteDisable
+                0x00000000       0xfc ./MSF/board/frdm_kea/arduino.o
+ .rodata.analogWriteDisable
+                0x00000000       0x3c ./MSF/board/frdm_kea/arduino.o
+ .text.SerialBegin
+                0x00000000       0xa8 ./MSF/board/frdm_kea/arduino.o
+ .text.SerialEnd
+                0x00000000        0x8 ./MSF/board/frdm_kea/arduino.o
+ .text.SerialPrint
+                0x00000000       0x18 ./MSF/board/frdm_kea/arduino.o
+ .text.SerialPrintLn
+                0x00000000       0x1c ./MSF/board/frdm_kea/arduino.o
+ .text.SerialAvailable
+                0x00000000       0x10 ./MSF/board/frdm_kea/arduino.o
+ .text.SerialFlush
+                0x00000000       0x20 ./MSF/board/frdm_kea/arduino.o
+ .text.SerialPeek
+                0x00000000       0x24 ./MSF/board/frdm_kea/arduino.o
+ .text.SerialRead
+                0x00000000       0x24 ./MSF/board/frdm_kea/arduino.o
+ .text.SerialReadBytes
+                0x00000000       0x24 ./MSF/board/frdm_kea/arduino.o
+ .text.SerialReadBytesUntil
+                0x00000000       0x2c ./MSF/board/frdm_kea/arduino.o
+ .text.SerialWrite
+                0x00000000       0x1c ./MSF/board/frdm_kea/arduino.o
+ .rodata        0x00000000       0x18 ./MSF/board/frdm_kea/arduino.o
+ .text.SerialPrintInt
+                0x00000000       0x58 ./MSF/board/frdm_kea/arduino.o
+ .text.SerialPrintFloat
+                0x00000000       0x70 ./MSF/board/frdm_kea/arduino.o
+ .rodata.Serial
+                0x00000000       0x34 ./MSF/board/frdm_kea/arduino.o
+ COMMON         0x00000000        0x4 ./MSF/board/frdm_kea/arduino.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/waveio.o
+ .text          0x00000000        0x0 ./MSF/common/waveio.o
+ .data          0x00000000        0x0 ./MSF/common/waveio.o
+ .bss           0x00000000        0x0 ./MSF/common/waveio.o
+ .bss.gwaveio_data
+                0x00000000       0x78 ./MSF/common/waveio.o
+ .bss.gwaveio_initialized_channels
+                0x00000000        0x4 ./MSF/common/waveio.o
+ .bss.gwaveio_active_channels
+                0x00000000        0x4 ./MSF/common/waveio.o
+ .bss.gwaveio_input_channels
+                0x00000000        0x4 ./MSF/common/waveio.o
+ .bss.gwaveio_overflow_cnt
+                0x00000000        0xc ./MSF/common/waveio.o
+ .text.waveio_init
+                0x00000000       0xe0 ./MSF/common/waveio.o
+ .text.waveio_uninit
+                0x00000000       0x64 ./MSF/common/waveio.o
+ .text.waveio_in_attach
+                0x00000000       0x8c ./MSF/common/waveio.o
+ .text.waveio_in_detach
+                0x00000000       0x14 ./MSF/common/waveio.o
+ .text.waveio_out_start
+                0x00000000      0x14c ./MSF/common/waveio.o
+ .text.waveio_out_stop
+                0x00000000       0xf4 ./MSF/common/waveio.o
+ .text.waveio_out_servo
+                0x00000000       0x60 ./MSF/common/waveio.o
+ .text.waveio_out_servo_us
+                0x00000000       0x58 ./MSF/common/waveio.o
+ .text.waveio_in_start
+                0x00000000       0x68 ./MSF/common/waveio.o
+ .text.waveio_in_stop
+                0x00000000       0x98 ./MSF/common/waveio.o
+ .text.waveio_in_read
+                0x00000000      0x18c ./MSF/common/waveio.o
+ .text.waveio_in_pulse_wait
+                0x00000000      0x180 ./MSF/common/waveio.o
+ .text.waveio_in_servo_read_us
+                0x00000000       0x90 ./MSF/common/waveio.o
+ .text.waveio_get_ftm_driver
+                0x00000000       0x80 ./MSF/common/waveio.o
+ .text.waveio_timer0_event
+                0x00000000      0x1a0 ./MSF/common/waveio.o
+ .rodata.waveio_timer0_event
+                0x00000000      0x104 ./MSF/common/waveio.o
+ .text.waveio_timer1_event
+                0x00000000       0xb0 ./MSF/common/waveio.o
+ .text.waveio_timer2_event
+                0x00000000       0xb8 ./MSF/common/waveio.o
+ .text.waveio_on_out_event
+                0x00000000      0x138 ./MSF/common/waveio.o
+ .text.waveio_on_in_event
+                0x00000000      0x1cc ./MSF/common/waveio.o
+ .debug_info    0x00000000      0x91e ./MSF/common/waveio.o
+ .debug_abbrev  0x00000000      0x24a ./MSF/common/waveio.o
+ .debug_aranges
+                0x00000000       0xb0 ./MSF/common/waveio.o
+ .debug_ranges  0x00000000       0xa0 ./MSF/common/waveio.o
+ .debug_macro   0x00000000      0x157 ./MSF/common/waveio.o
+ .debug_macro   0x00000000      0x832 ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0x40 ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/waveio.o
+ .debug_macro   0x00000000      0x1c7 ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0x4c ./MSF/common/waveio.o
+ .debug_macro   0x00000000      0x190 ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0x64 ./MSF/common/waveio.o
+ .debug_macro   0x00000000      0x178 ./MSF/common/waveio.o
+ .debug_macro   0x00000000      0x147 ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0x9d ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0x10 ./MSF/common/waveio.o
+ .debug_macro   0x00000000      0x1a1 ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0x39 ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0x3a ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0x1f ./MSF/common/waveio.o
+ .debug_macro   0x00000000      0x250 ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0x28 ./MSF/common/waveio.o
+ .debug_macro   0x00000000     0x479a ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0x6a ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0xc0 ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0x46 ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0x4c ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0x22 ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0xee ./MSF/common/waveio.o
+ .debug_macro   0x00000000       0x4a ./MSF/common/waveio.o
+ .debug_line    0x00000000      0x612 ./MSF/common/waveio.o
+ .debug_str     0x00000000    0x1d3c5 ./MSF/common/waveio.o
+ .comment       0x00000000       0x71 ./MSF/common/waveio.o
+ .debug_frame   0x00000000      0x26c ./MSF/common/waveio.o
+ .ARM.attributes
+                0x00000000       0x32 ./MSF/common/waveio.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/msf_print.o
+ .text          0x00000000        0x0 ./MSF/common/msf_print.o
+ .data          0x00000000        0x0 ./MSF/common/msf_print.o
+ .bss           0x00000000        0x0 ./MSF/common/msf_print.o
+ .text.msf_print
+                0x00000000       0x18 ./MSF/common/msf_print.o
+ .text.msf_print_char
+                0x00000000       0x20 ./MSF/common/msf_print.o
+ .rodata        0x00000000        0x8 ./MSF/common/msf_print.o
+ .text.msf_printnum
+                0x00000000       0x30 ./MSF/common/msf_print.o
+ .text.msf_printhex
+                0x00000000       0x30 ./MSF/common/msf_print.o
+ .text.msf_printf_16
+                0x00000000       0x40 ./MSF/common/msf_print.o
+ .text.msf_printf32
+                0x00000000       0x3c ./MSF/common/msf_print.o
+ .text.msf_printf_real
+                0x00000000       0x44 ./MSF/common/msf_print.o
+ .text.msf_read_char
+                0x00000000       0x10 ./MSF/common/msf_print.o
+ .text.msf_char_available
+                0x00000000       0x18 ./MSF/common/msf_print.o
+ .debug_info    0x00000000      0x2a8 ./MSF/common/msf_print.o
+ .debug_abbrev  0x00000000       0xd5 ./MSF/common/msf_print.o
+ .debug_aranges
+                0x00000000       0x60 ./MSF/common/msf_print.o
+ .debug_ranges  0x00000000       0x50 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000      0x1f8 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000      0x832 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x40 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000      0x1c7 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x4c ./MSF/common/msf_print.o
+ .debug_macro   0x00000000      0x190 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x64 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000      0x178 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000      0x147 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x9d ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x10 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000      0x1a1 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x39 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x3a ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x1f ./MSF/common/msf_print.o
+ .debug_macro   0x00000000      0x250 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x28 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000     0x479a ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x6a ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0xc0 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x46 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x4c ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x22 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0xe8 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x22 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x8b ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x22 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x10 ./MSF/common/msf_print.o
+ .debug_macro   0x00000000       0x20 ./MSF/common/msf_print.o
+ .debug_line    0x00000000      0x4d1 ./MSF/common/msf_print.o
+ .debug_str     0x00000000    0x1d2a6 ./MSF/common/msf_print.o
+ .comment       0x00000000       0x71 ./MSF/common/msf_print.o
+ .debug_frame   0x00000000      0x128 ./MSF/common/msf_print.o
+ .ARM.attributes
+                0x00000000       0x32 ./MSF/common/msf_print.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/coniob.o
+ .text          0x00000000        0x0 ./MSF/common/coniob.o
+ .data          0x00000000        0x0 ./MSF/common/coniob.o
+ .bss           0x00000000        0x0 ./MSF/common/coniob.o
+ .text.coniob_init
+                0x00000000       0x78 ./MSF/common/coniob.o
+ .text.coniob_getch
+                0x00000000       0x44 ./MSF/common/coniob.o
+ .text.coniob_kbhit
+                0x00000000       0x20 ./MSF/common/coniob.o
+ .text.coniob_putch
+                0x00000000       0xb8 ./MSF/common/coniob.o
+ .text.coniob_puts
+                0x00000000       0xc8 ./MSF/common/coniob.o
+ .text.coniob_gets
+                0x00000000       0xa8 ./MSF/common/coniob.o
+ .text.coniob_peek
+                0x00000000       0x3c ./MSF/common/coniob.o
+ .text.coniob_UART_SignalEvent
+                0x00000000       0xa0 ./MSF/common/coniob.o
+ .debug_info    0x00000000      0x49b ./MSF/common/coniob.o
+ .debug_abbrev  0x00000000      0x1b4 ./MSF/common/coniob.o
+ .debug_aranges
+                0x00000000       0x58 ./MSF/common/coniob.o
+ .debug_ranges  0x00000000       0x48 ./MSF/common/coniob.o
+ .debug_macro   0x00000000      0x232 ./MSF/common/coniob.o
+ .debug_macro   0x00000000      0x832 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x40 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/coniob.o
+ .debug_macro   0x00000000      0x1c7 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x4c ./MSF/common/coniob.o
+ .debug_macro   0x00000000      0x190 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x64 ./MSF/common/coniob.o
+ .debug_macro   0x00000000      0x178 ./MSF/common/coniob.o
+ .debug_macro   0x00000000      0x147 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x9d ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x10 ./MSF/common/coniob.o
+ .debug_macro   0x00000000      0x1a1 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x39 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x3a ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x1f ./MSF/common/coniob.o
+ .debug_macro   0x00000000      0x250 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x28 ./MSF/common/coniob.o
+ .debug_macro   0x00000000     0x479a ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x8b ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x22 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x10 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x20 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x10 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x7d ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x6a ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0xc0 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x46 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x4c ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x22 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0xe8 ./MSF/common/coniob.o
+ .debug_macro   0x00000000       0x22 ./MSF/common/coniob.o
+ .debug_line    0x00000000      0x52a ./MSF/common/coniob.o
+ .debug_str     0x00000000    0x1d8dd ./MSF/common/coniob.o
+ .comment       0x00000000       0x71 ./MSF/common/coniob.o
+ .debug_frame   0x00000000      0x104 ./MSF/common/coniob.o
+ .ARM.attributes
+                0x00000000       0x32 ./MSF/common/coniob.o
+ COMMON         0x00000000       0x8c ./MSF/common/coniob.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/common/conio.o
+ .text          0x00000000        0x0 ./MSF/common/conio.o
+ .data          0x00000000        0x0 ./MSF/common/conio.o
+ .bss           0x00000000        0x0 ./MSF/common/conio.o
+ .text.conio_init
+                0x00000000       0x1c ./MSF/common/conio.o
+ .text.conio_getch
+                0x00000000       0x24 ./MSF/common/conio.o
+ .text.conio_kbhit
+                0x00000000       0x18 ./MSF/common/conio.o
+ .rodata        0x00000000        0x4 ./MSF/common/conio.o
+ .text.conio_putch
+                0x00000000       0x58 ./MSF/common/conio.o
+ .text.conio_puts
+                0x00000000       0x2c ./MSF/common/conio.o
+ .text.conio_gets
+                0x00000000       0x90 ./MSF/common/conio.o
+ .debug_info    0x00000000      0x396 ./MSF/common/conio.o
+ .debug_abbrev  0x00000000      0x18f ./MSF/common/conio.o
+ .debug_aranges
+                0x00000000       0x48 ./MSF/common/conio.o
+ .debug_ranges  0x00000000       0x38 ./MSF/common/conio.o
+ .debug_macro   0x00000000      0x220 ./MSF/common/conio.o
+ .debug_macro   0x00000000      0x832 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x40 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/conio.o
+ .debug_macro   0x00000000      0x1c7 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x4c ./MSF/common/conio.o
+ .debug_macro   0x00000000      0x190 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x64 ./MSF/common/conio.o
+ .debug_macro   0x00000000      0x178 ./MSF/common/conio.o
+ .debug_macro   0x00000000      0x147 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x9d ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x10 ./MSF/common/conio.o
+ .debug_macro   0x00000000      0x1a1 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x39 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x3a ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x1f ./MSF/common/conio.o
+ .debug_macro   0x00000000      0x250 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x28 ./MSF/common/conio.o
+ .debug_macro   0x00000000     0x479a ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x16 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x8b ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x22 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x10 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x20 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x10 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x6a ./MSF/common/conio.o
+ .debug_macro   0x00000000       0xc0 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x46 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x4c ./MSF/common/conio.o
+ .debug_macro   0x00000000       0x22 ./MSF/common/conio.o
+ .debug_macro   0x00000000       0xe8 ./MSF/common/conio.o
+ .debug_line    0x00000000      0x4c3 ./MSF/common/conio.o
+ .debug_str     0x00000000    0x1d381 ./MSF/common/conio.o
+ .comment       0x00000000       0x71 ./MSF/common/conio.o
+ .debug_frame   0x00000000       0xc8 ./MSF/common/conio.o
+ .ARM.attributes
+                0x00000000       0x32 ./MSF/common/conio.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/uart_kea.o
+ .text          0x00000000        0x0 ./MSF/platform/kea/uart_kea.o
+ .data          0x00000000        0x0 ./MSF/platform/kea/uart_kea.o
+ .bss           0x00000000        0x0 ./MSF/platform/kea/uart_kea.o
+ .text.UART0_Initialize
+                0x00000000       0x3c ./MSF/platform/kea/uart_kea.o
+ .text.UART1_Initialize
+                0x00000000       0x3c ./MSF/platform/kea/uart_kea.o
+ .text.UART0_Uninitialize
+                0x00000000       0x18 ./MSF/platform/kea/uart_kea.o
+ .text.UART1_Uninitialize
+                0x00000000       0x18 ./MSF/platform/kea/uart_kea.o
+ .text.UART0_PowerControl
+                0x00000000       0x28 ./MSF/platform/kea/uart_kea.o
+ .text.UART1_PowerControl
+                0x00000000       0x28 ./MSF/platform/kea/uart_kea.o
+ .text.UART0_Control
+                0x00000000       0x28 ./MSF/platform/kea/uart_kea.o
+ .text.UART1_Control
+                0x00000000       0x28 ./MSF/platform/kea/uart_kea.o
+ .text.UART0_Send
+                0x00000000       0x28 ./MSF/platform/kea/uart_kea.o
+ .text.UART1_Send
+                0x00000000       0x28 ./MSF/platform/kea/uart_kea.o
+ .text.UART0_Receive
+                0x00000000       0x28 ./MSF/platform/kea/uart_kea.o
+ .text.UART1_Receive
+                0x00000000       0x28 ./MSF/platform/kea/uart_kea.o
+ .text.UART0_GetRxCount
+                0x00000000       0x18 ./MSF/platform/kea/uart_kea.o
+ .text.UART1_GetRxCount
+                0x00000000       0x18 ./MSF/platform/kea/uart_kea.o
+ .text.UART0_GetTxCount
+                0x00000000       0x18 ./MSF/platform/kea/uart_kea.o
+ .text.UART1_GetTxCount
+                0x00000000       0x18 ./MSF/platform/kea/uart_kea.o
+ .text.UART0_DataAvailable
+                0x00000000       0x18 ./MSF/platform/kea/uart_kea.o
+ .text.UART1_DataAvailable
+                0x00000000       0x18 ./MSF/platform/kea/uart_kea.o
+ .rodata.Driver_UART0
+                0x00000000       0x24 ./MSF/platform/kea/uart_kea.o
+ .rodata.Driver_UART1
+                0x00000000       0x24 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000      0x832 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000       0x40 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000       0x16 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000      0x1c7 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000       0x4c ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000      0x190 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000       0x16 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000       0x64 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000      0x178 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000      0x147 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000       0x9d ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000       0x10 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000      0x1a1 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000       0x39 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000       0x3a ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000       0x1f ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000      0x250 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000       0x28 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000     0x479a ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000       0x6a ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000       0xc0 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000       0x46 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000       0x4c ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000       0x22 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x00000000       0xe8 ./MSF/platform/kea/uart_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/spi_kea.o
+ .text          0x00000000        0x0 ./MSF/platform/kea/spi_kea.o
+ .data          0x00000000        0x0 ./MSF/platform/kea/spi_kea.o
+ .bss           0x00000000        0x0 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000      0x832 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000       0x40 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000       0x16 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000      0x1c7 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000       0x4c ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000      0x190 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000       0x16 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000       0x64 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000      0x178 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000      0x147 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000       0x9d ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000       0x10 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000      0x1a1 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000       0x39 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000       0x3a ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000       0x1f ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000      0x250 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000       0x28 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000     0x479a ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000       0x6a ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000       0xc0 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000       0x46 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000       0x4c ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000       0x22 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x00000000       0x9a ./MSF/platform/kea/spi_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf_analog.o
+ .text          0x00000000        0x0 ./MSF/platform/kea/msf_analog.o
+ .data          0x00000000        0x0 ./MSF/platform/kea/msf_analog.o
+ .bss           0x00000000        0x0 ./MSF/platform/kea/msf_analog.o
+ .text.msf_analog_read
+                0x00000000       0x38 ./MSF/platform/kea/msf_analog.o
+ .debug_info    0x00000000      0x273 ./MSF/platform/kea/msf_analog.o
+ .debug_abbrev  0x00000000       0xeb ./MSF/platform/kea/msf_analog.o
+ .debug_aranges
+                0x00000000       0x20 ./MSF/platform/kea/msf_analog.o
+ .debug_ranges  0x00000000       0x10 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000      0x14d ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000      0x832 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000       0x40 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000       0x16 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000      0x1c7 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000       0x4c ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000      0x190 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000       0x16 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000       0x64 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000      0x178 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000      0x147 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000       0x9d ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000       0x10 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000      0x1a1 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000       0x39 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000       0x3a ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000       0x1f ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000      0x250 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000       0x28 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000     0x479a ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000       0x6a ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000       0xc0 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000       0x46 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000       0x4c ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000       0x22 ./MSF/platform/kea/msf_analog.o
+ .debug_macro   0x00000000       0xb8 ./MSF/platform/kea/msf_analog.o
+ .debug_line    0x00000000      0x346 ./MSF/platform/kea/msf_analog.o
+ .debug_str     0x00000000    0x1cc4f ./MSF/platform/kea/msf_analog.o
+ .comment       0x00000000       0x71 ./MSF/platform/kea/msf_analog.o
+ .debug_frame   0x00000000       0x30 ./MSF/platform/kea/msf_analog.o
+ .ARM.attributes
+                0x00000000       0x32 ./MSF/platform/kea/msf_analog.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/msf.o
+ .text          0x00000000        0x0 ./MSF/platform/kea/msf.o
+ .data          0x00000000        0x0 ./MSF/platform/kea/msf.o
+ .bss           0x00000000        0x0 ./MSF/platform/kea/msf.o
+ .text.NVIC_SetPriority
+                0x00000000       0xd4 ./MSF/platform/kea/msf.o
+ .text.SysTick_Config
+                0x00000000       0x48 ./MSF/platform/kea/msf.o
+ .text.gpio_init
+                0x00000000       0x18 ./MSF/platform/kea/msf.o
+ .text.msf_init
+                0x00000000       0x78 ./MSF/platform/kea/msf.o
+ .text.msf_delay_ms
+                0x00000000       0x24 ./MSF/platform/kea/msf.o
+ .text.msf_millis
+                0x00000000       0x14 ./MSF/platform/kea/msf.o
+ .text.msf_micros
+                0x00000000       0x50 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000      0x832 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x40 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x16 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000      0x1c7 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x4c ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000      0x190 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x16 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x64 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000      0x178 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000      0x147 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x9d ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x10 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000      0x1a1 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x39 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x3a ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x1f ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000      0x250 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x28 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000     0x479a ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x6a ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0xc0 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x46 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x4c ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x22 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x16 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x16 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0xe8 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0x22 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00000000       0xb8 ./MSF/platform/kea/msf.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/mfs_spi.o
+ .text          0x00000000        0x0 ./MSF/platform/kea/mfs_spi.o
+ .data          0x00000000        0x0 ./MSF/platform/kea/mfs_spi.o
+ .bss           0x00000000        0x0 ./MSF/platform/kea/mfs_spi.o
+ .text.msf_spi_init
+                0x00000000       0x38 ./MSF/platform/kea/mfs_spi.o
+ .text.msf_spi_transfer
+                0x00000000       0x28 ./MSF/platform/kea/mfs_spi.o
+ .debug_info    0x00000000      0x201 ./MSF/platform/kea/mfs_spi.o
+ .debug_abbrev  0x00000000       0xeb ./MSF/platform/kea/mfs_spi.o
+ .debug_aranges
+                0x00000000       0x28 ./MSF/platform/kea/mfs_spi.o
+ .debug_ranges  0x00000000       0x18 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000      0x14d ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000      0x832 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000       0x40 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000       0x16 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000      0x1c7 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000       0x4c ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000      0x190 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000       0x16 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000       0x64 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000      0x178 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000      0x147 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000       0x9d ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000       0x10 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000      0x1a1 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000       0x39 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000       0x3a ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000       0x1f ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000      0x250 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000       0x28 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000     0x479a ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000       0x6a ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000       0xc0 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000       0x46 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000       0x4c ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000       0x22 ./MSF/platform/kea/mfs_spi.o
+ .debug_macro   0x00000000       0x9a ./MSF/platform/kea/mfs_spi.o
+ .debug_line    0x00000000      0x353 ./MSF/platform/kea/mfs_spi.o
+ .debug_str     0x00000000    0x1cb16 ./MSF/platform/kea/mfs_spi.o
+ .comment       0x00000000       0x71 ./MSF/platform/kea/mfs_spi.o
+ .debug_frame   0x00000000       0x50 ./MSF/platform/kea/mfs_spi.o
+ .ARM.attributes
+                0x00000000       0x32 ./MSF/platform/kea/mfs_spi.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/ftm_kea.o
+ .text          0x00000000        0x0 ./MSF/platform/kea/ftm_kea.o
+ .data          0x00000000        0x0 ./MSF/platform/kea/ftm_kea.o
+ .bss           0x00000000        0x0 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM0_Initialize
+                0x00000000       0x34 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM2_Initialize
+                0x00000000       0x34 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM0_Uninitialize
+                0x00000000       0x18 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM2_Uninitialize
+                0x00000000       0x18 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM0_PowerControl
+                0x00000000       0x28 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM2_PowerControl
+                0x00000000       0x28 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM0_Control
+                0x00000000       0x28 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM2_Control
+                0x00000000       0x28 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM0_ChannelSetMode
+                0x00000000       0x30 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM2_ChannelSetMode
+                0x00000000       0x30 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM0_ChannelWrite
+                0x00000000       0x30 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM2_ChannelWrite
+                0x00000000       0x30 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM0_ChannelRead
+                0x00000000       0x24 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM2_ChannelRead
+                0x00000000       0x24 ./MSF/platform/kea/ftm_kea.o
+ .rodata.Driver_FTM0
+                0x00000000       0x1c ./MSF/platform/kea/ftm_kea.o
+ .rodata.Driver_FTM2
+                0x00000000       0x1c ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000      0x832 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000       0x40 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000       0x16 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000      0x1c7 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000       0x4c ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000      0x190 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000       0x16 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000       0x64 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000      0x178 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000      0x147 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000       0x9d ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000       0x10 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000      0x1a1 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000       0x39 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000       0x3a ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000       0x1f ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000      0x250 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000       0x28 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000     0x479a ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000       0x6a ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000       0xc0 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000       0x46 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000       0x4c ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000       0x22 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00000000       0xee ./MSF/platform/kea/ftm_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./MSF/platform/kea/adc_kea.o
+ .text          0x00000000        0x0 ./MSF/platform/kea/adc_kea.o
+ .data          0x00000000        0x0 ./MSF/platform/kea/adc_kea.o
+ .bss           0x00000000        0x0 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000      0x832 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000       0x40 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000       0x16 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000      0x1c7 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000       0x4c ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000      0x190 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000       0x16 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000       0x64 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000      0x178 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000      0x147 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000       0x9d ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000       0x10 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000      0x1a1 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000       0x39 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000       0x3a ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000       0x1f ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000      0x250 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000       0x28 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000     0x479a ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000       0x6a ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000       0xc0 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000       0x46 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000       0x4c ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000       0x22 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00000000       0xb8 ./MSF/platform/kea/adc_kea.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .data.SystemCoreClock
+                0x00000000        0x4 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xf4 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_macro   0x00000000      0x832 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_macro   0x00000000       0x40 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_macro   0x00000000       0x16 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_macro   0x00000000       0x64 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_macro   0x00000000      0x178 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_macro   0x00000000      0x147 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_macro   0x00000000       0x9d ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_macro   0x00000000       0x10 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_macro   0x00000000      0x1a1 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_macro   0x00000000       0x3a ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_macro   0x00000000       0x1f ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_macro   0x00000000      0x250 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_macro   0x00000000       0x28 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_macro   0x00000000     0x479a ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup_SKEAZ1284.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup_SKEAZ1284.o
+ .group         0x00000000        0x8 ./src/rtc.o
+ .group         0x00000000        0x8 ./src/rtc.o
+ .group         0x00000000        0x8 ./src/rtc.o
+ .group         0x00000000        0x8 ./src/rtc.o
+ .group         0x00000000        0x8 ./src/rtc.o
+ .group         0x00000000        0x8 ./src/rtc.o
+ .group         0x00000000        0x8 ./src/rtc.o
+ .group         0x00000000        0x8 ./src/rtc.o
+ .group         0x00000000        0x8 ./src/rtc.o
+ .group         0x00000000        0x8 ./src/rtc.o
+ .group         0x00000000        0x8 ./src/rtc.o
+ .group         0x00000000        0x8 ./src/rtc.o
+ .group         0x00000000        0x8 ./src/rtc.o
+ .group         0x00000000        0x8 ./src/rtc.o
+ .group         0x00000000        0x8 ./src/rtc.o
+ .group         0x00000000        0x8 ./src/rtc.o
+ .group         0x00000000        0x8 ./src/rtc.o
+ .text          0x00000000        0x0 ./src/rtc.o
+ .data          0x00000000        0x0 ./src/rtc.o
+ .bss           0x00000000        0x0 ./src/rtc.o
+ .text.RTC_GetFlags
+                0x00000000       0x24 ./src/rtc.o
+ .text.RTC_DeInit
+                0x00000000       0x50 ./src/rtc.o
+ .debug_macro   0x00000000      0x832 ./src/rtc.o
+ .debug_macro   0x00000000       0x40 ./src/rtc.o
+ .debug_macro   0x00000000       0x16 ./src/rtc.o
+ .debug_macro   0x00000000       0x16 ./src/rtc.o
+ .debug_macro   0x00000000       0x64 ./src/rtc.o
+ .debug_macro   0x00000000      0x178 ./src/rtc.o
+ .debug_macro   0x00000000      0x147 ./src/rtc.o
+ .debug_macro   0x00000000       0x9d ./src/rtc.o
+ .debug_macro   0x00000000       0x10 ./src/rtc.o
+ .debug_macro   0x00000000      0x1a1 ./src/rtc.o
+ .debug_macro   0x00000000       0x39 ./src/rtc.o
+ .debug_macro   0x00000000       0x3a ./src/rtc.o
+ .debug_macro   0x00000000       0x1f ./src/rtc.o
+ .debug_macro   0x00000000      0x250 ./src/rtc.o
+ .debug_macro   0x00000000       0x28 ./src/rtc.o
+ .debug_macro   0x00000000     0x479a ./src/rtc.o
+ .group         0x00000000        0x8 ./src/nvic.o
+ .group         0x00000000        0x8 ./src/nvic.o
+ .group         0x00000000        0x8 ./src/nvic.o
+ .group         0x00000000        0x8 ./src/nvic.o
+ .group         0x00000000        0x8 ./src/nvic.o
+ .group         0x00000000        0x8 ./src/nvic.o
+ .group         0x00000000        0x8 ./src/nvic.o
+ .group         0x00000000        0x8 ./src/nvic.o
+ .group         0x00000000        0x8 ./src/nvic.o
+ .group         0x00000000        0x8 ./src/nvic.o
+ .group         0x00000000        0x8 ./src/nvic.o
+ .group         0x00000000        0x8 ./src/nvic.o
+ .group         0x00000000        0x8 ./src/nvic.o
+ .group         0x00000000        0x8 ./src/nvic.o
+ .group         0x00000000        0x8 ./src/nvic.o
+ .group         0x00000000        0x8 ./src/nvic.o
+ .text          0x00000000        0x0 ./src/nvic.o
+ .data          0x00000000        0x0 ./src/nvic.o
+ .bss           0x00000000        0x0 ./src/nvic.o
+ .debug_macro   0x00000000      0x832 ./src/nvic.o
+ .debug_macro   0x00000000       0x40 ./src/nvic.o
+ .debug_macro   0x00000000       0x16 ./src/nvic.o
+ .debug_macro   0x00000000       0x16 ./src/nvic.o
+ .debug_macro   0x00000000       0x64 ./src/nvic.o
+ .debug_macro   0x00000000      0x178 ./src/nvic.o
+ .debug_macro   0x00000000      0x147 ./src/nvic.o
+ .debug_macro   0x00000000       0x9d ./src/nvic.o
+ .debug_macro   0x00000000       0x10 ./src/nvic.o
+ .debug_macro   0x00000000      0x1a1 ./src/nvic.o
+ .debug_macro   0x00000000       0x39 ./src/nvic.o
+ .debug_macro   0x00000000       0x3a ./src/nvic.o
+ .debug_macro   0x00000000       0x1f ./src/nvic.o
+ .debug_macro   0x00000000      0x250 ./src/nvic.o
+ .debug_macro   0x00000000       0x28 ./src/nvic.o
+ .debug_macro   0x00000000     0x479a ./src/nvic.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/lcd_routines.o
+ .text          0x00000000        0x0 ./src/lcd_routines.o
+ .data          0x00000000        0x0 ./src/lcd_routines.o
+ .bss           0x00000000        0x0 ./src/lcd_routines.o
+ .debug_macro   0x00000000      0x832 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x40 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x16 ./src/lcd_routines.o
+ .debug_macro   0x00000000      0x1c7 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x4c ./src/lcd_routines.o
+ .debug_macro   0x00000000      0x190 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x16 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x64 ./src/lcd_routines.o
+ .debug_macro   0x00000000      0x178 ./src/lcd_routines.o
+ .debug_macro   0x00000000      0x147 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x9d ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x10 ./src/lcd_routines.o
+ .debug_macro   0x00000000      0x1a1 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x39 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x3a ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x1f ./src/lcd_routines.o
+ .debug_macro   0x00000000      0x250 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x28 ./src/lcd_routines.o
+ .debug_macro   0x00000000     0x479a ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x6a ./src/lcd_routines.o
+ .debug_macro   0x00000000       0xc0 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x46 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x4c ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x22 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0xb8 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0xe8 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x22 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0xee ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x9a ./src/lcd_routines.o
+ .debug_macro   0x00000000      0x1a4 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x16 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x16 ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x2e ./src/lcd_routines.o
+ .debug_macro   0x00000000       0x10 ./src/lcd_routines.o
+ .group         0x00000000        0x8 ./src/kbi.o
+ .group         0x00000000        0x8 ./src/kbi.o
+ .group         0x00000000        0x8 ./src/kbi.o
+ .group         0x00000000        0x8 ./src/kbi.o
+ .group         0x00000000        0x8 ./src/kbi.o
+ .group         0x00000000        0x8 ./src/kbi.o
+ .group         0x00000000        0x8 ./src/kbi.o
+ .group         0x00000000        0x8 ./src/kbi.o
+ .group         0x00000000        0x8 ./src/kbi.o
+ .group         0x00000000        0x8 ./src/kbi.o
+ .group         0x00000000        0x8 ./src/kbi.o
+ .group         0x00000000        0x8 ./src/kbi.o
+ .group         0x00000000        0x8 ./src/kbi.o
+ .group         0x00000000        0x8 ./src/kbi.o
+ .group         0x00000000        0x8 ./src/kbi.o
+ .group         0x00000000        0x8 ./src/kbi.o
+ .group         0x00000000        0x8 ./src/kbi.o
+ .text          0x00000000        0x0 ./src/kbi.o
+ .data          0x00000000        0x0 ./src/kbi.o
+ .bss           0x00000000        0x0 ./src/kbi.o
+ .text.KBI_DeInit
+                0x00000000       0x68 ./src/kbi.o
+ .debug_macro   0x00000000      0x832 ./src/kbi.o
+ .debug_macro   0x00000000       0x40 ./src/kbi.o
+ .debug_macro   0x00000000       0x16 ./src/kbi.o
+ .debug_macro   0x00000000       0x16 ./src/kbi.o
+ .debug_macro   0x00000000       0x64 ./src/kbi.o
+ .debug_macro   0x00000000      0x178 ./src/kbi.o
+ .debug_macro   0x00000000      0x147 ./src/kbi.o
+ .debug_macro   0x00000000       0x9d ./src/kbi.o
+ .debug_macro   0x00000000       0x10 ./src/kbi.o
+ .debug_macro   0x00000000      0x1a1 ./src/kbi.o
+ .debug_macro   0x00000000       0x39 ./src/kbi.o
+ .debug_macro   0x00000000       0x3a ./src/kbi.o
+ .debug_macro   0x00000000       0x1f ./src/kbi.o
+ .debug_macro   0x00000000      0x250 ./src/kbi.o
+ .debug_macro   0x00000000       0x28 ./src/kbi.o
+ .debug_macro   0x00000000     0x479a ./src/kbi.o
+ COMMON         0x00000000        0x8 ./src/kbi.o
+ .group         0x00000000        0x8 ./src/ics.o
+ .group         0x00000000        0x8 ./src/ics.o
+ .group         0x00000000        0x8 ./src/ics.o
+ .group         0x00000000        0x8 ./src/ics.o
+ .group         0x00000000        0x8 ./src/ics.o
+ .group         0x00000000        0x8 ./src/ics.o
+ .group         0x00000000        0x8 ./src/ics.o
+ .group         0x00000000        0x8 ./src/ics.o
+ .group         0x00000000        0x8 ./src/ics.o
+ .group         0x00000000        0x8 ./src/ics.o
+ .group         0x00000000        0x8 ./src/ics.o
+ .group         0x00000000        0x8 ./src/ics.o
+ .group         0x00000000        0x8 ./src/ics.o
+ .group         0x00000000        0x8 ./src/ics.o
+ .group         0x00000000        0x8 ./src/ics.o
+ .group         0x00000000        0x8 ./src/ics.o
+ .text          0x00000000        0x0 ./src/ics.o
+ .data          0x00000000        0x0 ./src/ics.o
+ .bss           0x00000000        0x0 ./src/ics.o
+ .debug_macro   0x00000000      0x832 ./src/ics.o
+ .debug_macro   0x00000000       0x40 ./src/ics.o
+ .debug_macro   0x00000000       0x16 ./src/ics.o
+ .debug_macro   0x00000000       0x16 ./src/ics.o
+ .debug_macro   0x00000000       0x64 ./src/ics.o
+ .debug_macro   0x00000000      0x178 ./src/ics.o
+ .debug_macro   0x00000000      0x147 ./src/ics.o
+ .debug_macro   0x00000000       0x9d ./src/ics.o
+ .debug_macro   0x00000000       0x10 ./src/ics.o
+ .debug_macro   0x00000000      0x1a1 ./src/ics.o
+ .debug_macro   0x00000000       0x39 ./src/ics.o
+ .debug_macro   0x00000000       0x3a ./src/ics.o
+ .debug_macro   0x00000000       0x1f ./src/ics.o
+ .debug_macro   0x00000000      0x250 ./src/ics.o
+ .debug_macro   0x00000000       0x28 ./src/ics.o
+ .debug_macro   0x00000000     0x479a ./src/ics.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/LiquidCrystal.o
+ .text          0x00000000        0x0 ./src/LiquidCrystal.o
+ .data          0x00000000        0x0 ./src/LiquidCrystal.o
+ .bss           0x00000000        0x0 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000      0x832 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0x40 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0x16 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0x16 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0x64 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000      0x178 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000      0x147 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0x9d ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0x10 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000      0x1a1 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0x39 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0x3a ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0x1f ./src/LiquidCrystal.o
+ .debug_macro   0x00000000      0x250 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0x28 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000     0x479a ./src/LiquidCrystal.o
+ .debug_macro   0x00000000      0x1c7 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0x4c ./src/LiquidCrystal.o
+ .debug_macro   0x00000000      0x190 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0x6a ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0xc0 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0x46 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0x4c ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0x22 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0xb8 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0xe8 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0x22 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0xee ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0x9a ./src/LiquidCrystal.o
+ .debug_macro   0x00000000      0x1a4 ./src/LiquidCrystal.o
+ .debug_macro   0x00000000       0xb8 ./src/LiquidCrystal.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .text          0x00000000        0x0 ./src/Lab11_LCD_Arduino_KEA128.o
+ .data          0x00000000        0x0 ./src/Lab11_LCD_Arduino_KEA128.o
+ .bss           0x00000000        0x0 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000      0x832 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x40 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x16 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x16 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x64 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000      0x178 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000      0x147 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x9d ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x10 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000      0x1a1 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x39 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x3a ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x1f ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000      0x250 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x28 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000     0x479a ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x16 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x16 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x10 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000      0x1c7 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x4c ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000      0x190 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x6a ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0xc0 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x46 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x4c ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x22 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0xb8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0xe8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x22 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0xee ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x9a ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000      0x1a4 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0xb8 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x94 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x52 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00000000       0x10 ./src/Lab11_LCD_Arduino_KEA128.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .group         0x00000000        0x8 ./src/LCD_DFR0009.o
+ .text          0x00000000        0x0 ./src/LCD_DFR0009.o
+ .data          0x00000000        0x0 ./src/LCD_DFR0009.o
+ .bss           0x00000000        0x0 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000      0x832 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x40 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x16 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x16 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x64 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000      0x178 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000      0x147 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x9d ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x10 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000      0x1a1 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x39 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x3a ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x1f ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000      0x250 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x28 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000     0x479a ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000      0x1c7 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x4c ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000      0x190 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x6a ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0xc0 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x46 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x4c ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x22 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0xb8 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0xe8 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x22 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0xee ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x9a ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000      0x1a4 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0xb8 ./src/LCD_DFR0009.o
+ .debug_macro   0x00000000       0x94 ./src/LCD_DFR0009.o
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(sprintf.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(sprintf.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(sprintf.o)
+ .text.sprintf  0x00000000       0x1a C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(sprintf.o)
+ .debug_info    0x00000000      0x11e C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(sprintf.o)
+ .debug_abbrev  0x00000000       0xb1 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(sprintf.o)
+ .debug_loc     0x00000000       0x3f C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(sprintf.o)
+ .debug_aranges
+                0x00000000       0x20 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(sprintf.o)
+ .debug_line    0x00000000       0x94 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(sprintf.o)
+ .debug_str     0x00000000      0x24f C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(sprintf.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(sprintf.o)
+ .debug_frame   0x00000000       0x2c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(sprintf.o)
+ .ARM.attributes
+                0x00000000       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(sprintf.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsnprintf.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsnprintf.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsnprintf.o)
+ .text.__StringWrite
+                0x00000000       0x26 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsnprintf.o)
+ .text.vsnprintf
+                0x00000000       0x38 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsnprintf.o)
+ .debug_info    0x00000000      0x205 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsnprintf.o)
+ .debug_abbrev  0x00000000       0xf0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsnprintf.o)
+ .debug_loc     0x00000000      0x110 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsnprintf.o)
+ .debug_aranges
+                0x00000000       0x28 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsnprintf.o)
+ .debug_line    0x00000000       0xd6 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsnprintf.o)
+ .debug_str     0x00000000      0x2b8 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsnprintf.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsnprintf.o)
+ .debug_frame   0x00000000       0x4c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsnprintf.o)
+ .ARM.attributes
+                0x00000000       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsnprintf.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o)
+ .text.atol     0x00000000        0xc C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(exit.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(exit.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(exit.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(rand.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(rand.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(rand.o)
+ .text.srand    0x00000000        0xc C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(rand.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__strtoul.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__strtoul.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__strtoul.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memcpy.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memcpy.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memset.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memset.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memset.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(strlen.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(strlen.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(strlen.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isalnum  0x00000000       0x1c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.iscntrl  0x00000000       0x1c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isdigit  0x00000000        0xe C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isgraph  0x00000000       0x1c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.islower  0x00000000       0x1c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isprint  0x00000000       0x1c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.ispunct  0x00000000       0x1c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isupper  0x00000000       0x1c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isxdigit
+                0x00000000       0x1c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isblank  0x00000000       0x24 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.tolower  0x00000000        0xc C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(errno.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(errno.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(errno.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsscanf.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsscanf.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsscanf.o)
+ .text.vsscanf  0x00000000       0x30 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsscanf.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__filll_mem.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__filll_mem.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__filll_mem.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(scanformat_.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(scanformat_.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(scanformat_.o)
+ .text.__sformatter
+                0x00000000      0x74c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_info    0x00000000      0x564 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_abbrev  0x00000000      0x1fb C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_loc     0x00000000      0x9fa C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_aranges
+                0x00000000       0x20 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_line    0x00000000      0x2c4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_str     0x00000000      0x4e5 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(scanformat_.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_frame   0x00000000       0x34 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(scanformat_.o)
+ .ARM.attributes
+                0x00000000       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(scanformat_.o)
+ .data          0x00000000        0x0 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_sqi.o)
+ .bss           0x00000000        0x0 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_sqi.o)
+ .text          0x00000000       0x14 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .data          0x00000000        0x0 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x00000000        0x0 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .data          0x00000000        0x0 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000       0xa8 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(extendsfdf2.o)
+ .data          0x00000000        0x0 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(extendsfdf2.o)
+ .bss           0x00000000        0x0 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(extendsfdf2.o)
+ .debug_frame   0x00000000       0x2c c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(extendsfdf2.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(extendsfdf2.o)
+ .text          0x00000000       0x3c c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_clzsi2.o)
+ .data          0x00000000        0x0 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_clzsi2.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .bss.__dso_handle
+                0x00000000        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__register_global_object
+                0x00000000       0x14 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__cxa_atexit
+                0x00000000       0x38 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__aeabi_atexit
+                0x00000000        0xe C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__register_atexit
+                0x00000000        0xc C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .bss.atexit_curr_func
+                0x00000000        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .bss.atexit_funcs
+                0x00000000      0x300 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .text.__flush_cache
+                0x00000000        0x2 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .text          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .data          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .bss           0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .text._ExitProcess
+                0x00000000        0x2 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .debug_info    0x00000000       0x4e C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .debug_abbrev  0x00000000       0x4a C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .debug_aranges
+                0x00000000       0x20 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .debug_line    0x00000000       0x45 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .debug_str     0x00000000      0x1bd C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .debug_frame   0x00000000       0x20 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .ARM.attributes
+                0x00000000       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x00000000         0x00000100         xr
+m_flash_config   0x00000400         0x00000010         xr
+m_text           0x00000410         0x0001fbf0         xr
+m_data           0x1ffff000         0x00004000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+LOAD ./MSF/board/frdm_kea/arduino.o
+LOAD ./MSF/common/waveio.o
+LOAD ./MSF/common/msf_print.o
+LOAD ./MSF/common/coniob.o
+LOAD ./MSF/common/conio.o
+LOAD ./MSF/platform/kea/uart_kea.o
+LOAD ./MSF/platform/kea/spi_kea.o
+LOAD ./MSF/platform/kea/msf_analog.o
+LOAD ./MSF/platform/kea/msf.o
+LOAD ./MSF/platform/kea/mfs_spi.o
+LOAD ./MSF/platform/kea/ftm_kea.o
+LOAD ./MSF/platform/kea/adc_kea.o
+LOAD ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+LOAD ./Project_Settings/Startup_Code/startup_SKEAZ1284.o
+LOAD ./src/rtc.o
+LOAD ./src/nvic.o
+LOAD ./src/lcd_routines.o
+LOAD ./src/kbi.o
+LOAD ./src/ics.o
+LOAD ./src/LiquidCrystal.o
+LOAD ./src/Lab11_LCD_Arduino_KEA128.o
+LOAD ./src/LCD_DFR0009.o
+START GROUP
+LOAD C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a
+LOAD C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libm.a
+LOAD c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a
+LOAD C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a
+END GROUP
+LOAD C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+                0x20003000                _estack = 0x20003000
+                0x20003000                __SP_INIT = _estack
+                0x00000400                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x400
+                0x00000400                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+
+.interrupts     0x00000000       0xc0
+                0x00000000                __VECTOR_TABLE = .
+                0x00000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./Project_Settings/Startup_Code/startup_SKEAZ1284.o
+                0x00000000                __isr_vector
+                0x000000c0                . = ALIGN (0x4)
+
+.flash_config   0x00000400       0x10
+                0x00000400                . = ALIGN (0x4)
+ *(.FlashConfig)
+ .FlashConfig   0x00000400       0x10 ./Project_Settings/Startup_Code/startup_SKEAZ1284.o
+                0x00000410                . = ALIGN (0x4)
+
+.text           0x00000410     0x7184
+                0x00000410                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000410       0x44 ./Project_Settings/Startup_Code/startup_SKEAZ1284.o
+                0x00000410                Reset_Handler
+                0x00000450                Reserved16_IRQHandler
+                0x00000450                I2C0_IRQHandler
+                0x00000450                HardFault_Handler
+                0x00000450                PendSV_Handler
+                0x00000450                NMI_Handler
+                0x00000450                I2C1_IRQHandler
+                0x00000450                Reserved19_IRQHandler
+                0x00000450                Reserved42_IRQHandler
+                0x00000450                SPI1_IRQHandler
+                0x00000450                DefaultISR
+                0x00000450                FTMRE_IRQHandler
+                0x00000450                IRQ_IRQHandler
+                0x00000450                Reserved18_IRQHandler
+                0x00000450                PIT_CH0_IRQHandler
+                0x00000450                Reserved20_IRQHandler
+                0x00000450                Default_Handler
+                0x00000450                Reserved17_IRQHandler
+                0x00000450                ADC_IRQHandler
+                0x00000450                MSCAN_RX_IRQHandler
+                0x00000450                ACMP0_IRQHandler
+                0x00000450                MSCAN_TX_IRQHandler
+                0x00000450                PWT_IRQHandler
+                0x00000450                SVC_Handler
+                0x00000450                ICS_IRQHandler
+                0x00000450                PIT_CH1_IRQHandler
+                0x00000450                PMC_IRQHandler
+                0x00000450                WDOG_IRQHandler
+                0x00000450                ACMP1_IRQHandler
+ .text          0x00000454       0x14 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_sqi.o)
+                0x00000454                __gnu_thumb1_case_sqi
+ .text          0x00000468      0x120 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+                0x00000468                __aeabi_uidiv
+                0x00000468                __udivsi3
+                0x00000574                __aeabi_uidivmod
+ .text          0x00000588      0x1e0 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+                0x00000588                __divsi3
+                0x00000588                __aeabi_idiv
+                0x00000754                __aeabi_idivmod
+ .text          0x00000768        0x4 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+                0x00000768                __aeabi_idiv0
+                0x00000768                __aeabi_ldiv0
+ *(.text*)
+ .text.__thumb_startup
+                0x0000076c       0x3c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+                0x0000076c                __thumb_startup
+ .text.SPIBegin
+                0x000007a8       0x18 ./MSF/board/frdm_kea/arduino.o
+ .text.SPIEnd   0x000007c0       0x14 ./MSF/board/frdm_kea/arduino.o
+ .text.SPITransfer
+                0x000007d4       0x2c ./MSF/board/frdm_kea/arduino.o
+ .text.SPIDataMode
+                0x00000800       0x54 ./MSF/board/frdm_kea/arduino.o
+ .text.SPIBitOrder
+                0x00000854       0x34 ./MSF/board/frdm_kea/arduino.o
+ .text.SPIsetClockDivider
+                0x00000888       0x80 ./MSF/board/frdm_kea/arduino.o
+                0x00000888                SPIsetClockDivider
+ .text.NVIC_EnableIRQ
+                0x00000908       0x2c ./MSF/platform/kea/uart_kea.o
+ .text.NVIC_DisableIRQ
+                0x00000934       0x30 ./MSF/platform/kea/uart_kea.o
+ .text.NVIC_ClearPendingIRQ
+                0x00000964       0x30 ./MSF/platform/kea/uart_kea.o
+ .text.NVIC_SetPriority
+                0x00000994       0xd4 ./MSF/platform/kea/uart_kea.o
+ .text.UART_Initialize
+                0x00000a68      0x124 ./MSF/platform/kea/uart_kea.o
+ .text.UART2_Initialize
+                0x00000b8c       0x3c ./MSF/platform/kea/uart_kea.o
+ .text.UART_Uninitialize
+                0x00000bc8       0x38 ./MSF/platform/kea/uart_kea.o
+ .text.UART2_Uninitialize
+                0x00000c00       0x18 ./MSF/platform/kea/uart_kea.o
+ .text.UART_PowerControl
+                0x00000c18       0x18 ./MSF/platform/kea/uart_kea.o
+ .text.UART2_PowerControl
+                0x00000c30       0x28 ./MSF/platform/kea/uart_kea.o
+ .text.UART_Control
+                0x00000c58      0x250 ./MSF/platform/kea/uart_kea.o
+ .text.UART2_Control
+                0x00000ea8       0x28 ./MSF/platform/kea/uart_kea.o
+ .text.UART_Send
+                0x00000ed0       0xc0 ./MSF/platform/kea/uart_kea.o
+                0x00000ed0                UART_Send
+ .text.UART2_Send
+                0x00000f90       0x28 ./MSF/platform/kea/uart_kea.o
+ .text.UART_Receive
+                0x00000fb8       0xc4 ./MSF/platform/kea/uart_kea.o
+                0x00000fb8                UART_Receive
+ .text.UART2_Receive
+                0x0000107c       0x28 ./MSF/platform/kea/uart_kea.o
+ .text.UART_GetRxCount
+                0x000010a4       0x28 ./MSF/platform/kea/uart_kea.o
+ .text.UART2_GetRxCount
+                0x000010cc       0x18 ./MSF/platform/kea/uart_kea.o
+ .text.UART_GetTxCount
+                0x000010e4       0x28 ./MSF/platform/kea/uart_kea.o
+ .text.UART2_GetTxCount
+                0x0000110c       0x18 ./MSF/platform/kea/uart_kea.o
+ .text.UART_DataAvailable
+                0x00001124       0x28 ./MSF/platform/kea/uart_kea.o
+ .text.UART2_DataAvailable
+                0x0000114c       0x18 ./MSF/platform/kea/uart_kea.o
+ .text.UART_handleIRQ
+                0x00001164      0x1ec ./MSF/platform/kea/uart_kea.o
+                0x00001164                UART_handleIRQ
+ .text.UART0_IRQHandler
+                0x00001350       0x14 ./MSF/platform/kea/uart_kea.o
+                0x00001350                UART0_IRQHandler
+ .text.UART1_IRQHandler
+                0x00001364       0x14 ./MSF/platform/kea/uart_kea.o
+                0x00001364                UART1_IRQHandler
+ .text.UART2_IRQHandler
+                0x00001378       0x14 ./MSF/platform/kea/uart_kea.o
+                0x00001378                UART2_IRQHandler
+ .text.uart_setbaudrate
+                0x0000138c       0x68 ./MSF/platform/kea/uart_kea.o
+ .text.uart_intconfig
+                0x000013f4       0xb0 ./MSF/platform/kea/uart_kea.o
+ .text.NVIC_EnableIRQ
+                0x000014a4       0x2c ./MSF/platform/kea/spi_kea.o
+ .text.NVIC_DisableIRQ
+                0x000014d0       0x30 ./MSF/platform/kea/spi_kea.o
+ .text.NVIC_ClearPendingIRQ
+                0x00001500       0x30 ./MSF/platform/kea/spi_kea.o
+ .text.NVIC_SetPriority
+                0x00001530       0xd4 ./MSF/platform/kea/spi_kea.o
+ .text.SPI_Initialize
+                0x00001604       0xa8 ./MSF/platform/kea/spi_kea.o
+ .text.SPI0_Initialize
+                0x000016ac       0x50 ./MSF/platform/kea/spi_kea.o
+ .text.SPI_Uninitialize
+                0x000016fc       0x38 ./MSF/platform/kea/spi_kea.o
+ .text.SPI0_Uninitialize
+                0x00001734       0x18 ./MSF/platform/kea/spi_kea.o
+ .text.SPI_Control
+                0x0000174c      0x21c ./MSF/platform/kea/spi_kea.o
+ .text.SPI0_Control
+                0x00001968       0x28 ./MSF/platform/kea/spi_kea.o
+ .text.SPI_Transfer
+                0x00001990       0x98 ./MSF/platform/kea/spi_kea.o
+                0x00001990                SPI_Transfer
+ .text.SPI0_Transfer
+                0x00001a28       0x28 ./MSF/platform/kea/spi_kea.o
+ .text.SPI_handleIRQ
+                0x00001a50       0xbc ./MSF/platform/kea/spi_kea.o
+                0x00001a50                SPI_handleIRQ
+ .text.SPI0_IRQHandler
+                0x00001b0c       0x14 ./MSF/platform/kea/spi_kea.o
+                0x00001b0c                SPI0_IRQHandler
+ .text.spi_setbaudrate
+                0x00001b20       0x20 ./MSF/platform/kea/spi_kea.o
+ .text.spi0_intconfig
+                0x00001b40       0x84 ./MSF/platform/kea/spi_kea.o
+ .text.msf_delay_us
+                0x00001bc4       0x40 ./MSF/platform/kea/msf.o
+                0x00001bc4                msf_delay_us
+ .text.SysTick_Handler
+                0x00001c04       0x2c ./MSF/platform/kea/msf.o
+                0x00001c04                SysTick_Handler
+ .text.NVIC_EnableIRQ
+                0x00001c30       0x2c ./MSF/platform/kea/ftm_kea.o
+ .text.NVIC_DisableIRQ
+                0x00001c5c       0x30 ./MSF/platform/kea/ftm_kea.o
+ .text.NVIC_ClearPendingIRQ
+                0x00001c8c       0x30 ./MSF/platform/kea/ftm_kea.o
+ .text.NVIC_SetPriority
+                0x00001cbc       0xd4 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM_Initialize
+                0x00001d90       0x8c ./MSF/platform/kea/ftm_kea.o
+ .text.FTM1_Initialize
+                0x00001e1c       0x34 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM_Uninitialize
+                0x00001e50       0x74 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM1_Uninitialize
+                0x00001ec4       0x18 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM_PowerControl
+                0x00001edc       0x18 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM1_PowerControl
+                0x00001ef4       0x28 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM_Control
+                0x00001f1c      0x21c ./MSF/platform/kea/ftm_kea.o
+ .text.FTM1_Control
+                0x00002138       0x28 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM_ChannelSetMode
+                0x00002160      0x448 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM1_ChannelSetMode
+                0x000025a8       0x30 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM_ChannelWrite
+                0x000025d8       0x40 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM1_ChannelWrite
+                0x00002618       0x30 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM_ChannelRead
+                0x00002648       0x34 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM1_ChannelRead
+                0x0000267c       0x24 ./MSF/platform/kea/ftm_kea.o
+ .text.FTM_IRQHandler
+                0x000026a0       0xc8 ./MSF/platform/kea/ftm_kea.o
+                0x000026a0                FTM_IRQHandler
+ .text.FTM0_IRQHandler
+                0x00002768       0x14 ./MSF/platform/kea/ftm_kea.o
+                0x00002768                FTM0_IRQHandler
+ .text.FTM1_IRQHandler
+                0x0000277c       0x14 ./MSF/platform/kea/ftm_kea.o
+                0x0000277c                FTM1_IRQHandler
+ .text.FTM2_IRQHandler
+                0x00002790       0x14 ./MSF/platform/kea/ftm_kea.o
+                0x00002790                FTM2_IRQHandler
+ .text.wftm_enable_pin
+                0x000027a4      0x218 ./MSF/platform/kea/ftm_kea.o
+ .text.wftm_enable_int
+                0x000029bc       0x4c ./MSF/platform/kea/ftm_kea.o
+ .text.ADC_Initialize
+                0x00002a08       0x40 ./MSF/platform/kea/adc_kea.o
+ .text.ADC0_Initialize
+                0x00002a48       0x24 ./MSF/platform/kea/adc_kea.o
+ .text.ADC_Uninitialize
+                0x00002a6c       0x24 ./MSF/platform/kea/adc_kea.o
+ .text.ADC0_Uninitialize
+                0x00002a90       0x18 ./MSF/platform/kea/adc_kea.o
+ .text.ADC_PowerControl
+                0x00002aa8       0x18 ./MSF/platform/kea/adc_kea.o
+ .text.ADC0_PowerControl
+                0x00002ac0       0x28 ./MSF/platform/kea/adc_kea.o
+ .text.ADC_Control
+                0x00002ae8       0xc0 ./MSF/platform/kea/adc_kea.o
+ .text.ADC0_Control
+                0x00002ba8       0x28 ./MSF/platform/kea/adc_kea.o
+ .text.ADC_Read
+                0x00002bd0       0x60 ./MSF/platform/kea/adc_kea.o
+ .text.ADC0_Read
+                0x00002c30       0x18 ./MSF/platform/kea/adc_kea.o
+ .text.ADC_SetChannel
+                0x00002c48       0x44 ./MSF/platform/kea/adc_kea.o
+ .text.ADC0_SetChannel
+                0x00002c8c       0x24 ./MSF/platform/kea/adc_kea.o
+ .text.adc_init
+                0x00002cb0       0x28 ./MSF/platform/kea/adc_kea.o
+ .text.SystemInit
+                0x00002cd8       0x90 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+                0x00002cd8                SystemInit
+ .text.RTC_EnableInt
+                0x00002d68       0x18 ./src/rtc.o
+ .text.RTC_SetModulo
+                0x00002d80       0x20 ./src/rtc.o
+ .text.RTC_SetClock
+                0x00002da0       0x54 ./src/rtc.o
+ .text.RTC_ClrFlags
+                0x00002df4       0x18 ./src/rtc.o
+ .text.RTC_Init
+                0x00002e0c       0xcc ./src/rtc.o
+                0x00002e0c                RTC_Init
+ .text.RTC_SetCallback
+                0x00002ed8       0x18 ./src/rtc.o
+                0x00002ed8                RTC_SetCallback
+ .text.RTC_IRQHandler
+                0x00002ef0       0x20 ./src/rtc.o
+                0x00002ef0                RTC_IRQHandler
+ .text.NVIC_EnableIRQ
+                0x00002f10       0x2c ./src/nvic.o
+ .text.NVIC_DisableIRQ
+                0x00002f3c       0x30 ./src/nvic.o
+ .text.NVIC_SetPendingIRQ
+                0x00002f6c       0x30 ./src/nvic.o
+ .text.NVIC_ClearPendingIRQ
+                0x00002f9c       0x30 ./src/nvic.o
+ .text.Enable_Interrupt
+                0x00002fcc       0x2c ./src/nvic.o
+                0x00002fcc                Enable_Interrupt
+ .text.Disable_Interrupt
+                0x00002ff8       0x2c ./src/nvic.o
+                0x00002ff8                Disable_Interrupt
+ .text.delayMicroseconds
+                0x00003024       0x18 ./src/lcd_routines.o
+ .text.Echo     0x0000303c       0x80 ./src/lcd_routines.o
+                0x0000303c                Echo
+ .text.ADC_Show
+                0x000030bc       0xb4 ./src/lcd_routines.o
+                0x000030bc                ADC_Show
+ .text.itoa     0x00003170       0x90 ./src/lcd_routines.o
+                0x00003170                itoa
+ .text.msg      0x00003200       0xb4 ./src/lcd_routines.o
+                0x00003200                msg
+ .text.DisplayBounce
+                0x000032b4      0x344 ./src/lcd_routines.o
+                0x000032b4                DisplayBounce
+ .text.math     0x000035f8      0x59c ./src/lcd_routines.o
+                0x000035f8                math
+ .text.math_fail
+                0x00003b94       0xa8 ./src/lcd_routines.o
+                0x00003b94                math_fail
+ .text.Print_Result
+                0x00003c3c      0x174 ./src/lcd_routines.o
+                0x00003c3c                Print_Result
+ .text.fortune_teller
+                0x00003db0      0x154 ./src/lcd_routines.o
+                0x00003db0                fortune_teller
+ .text.print_fortune
+                0x00003f04      0x16c ./src/lcd_routines.o
+                0x00003f04                print_fortune
+ .text.KBI_Init
+                0x00004070      0x290 ./src/kbi.o
+                0x00004070                KBI_Init
+ .text.KBI_SetCallback
+                0x00004300       0x30 ./src/kbi.o
+                0x00004300                KBI_SetCallback
+ .text.KBI0_IRQHandler
+                0x00004330       0x34 ./src/kbi.o
+                0x00004330                KBI0_IRQHandler
+ .text.KBI1_IRQHandler
+                0x00004364       0x34 ./src/kbi.o
+                0x00004364                KBI1_IRQHandler
+ .text.ICS_Init_FEI
+                0x00004398       0x58 ./src/ics.o
+                0x00004398                ICS_Init_FEI
+ .text.gpio_direction
+                0x000043f0      0x11c ./src/LiquidCrystal.o
+ .text.gpio_pullmode
+                0x0000450c       0xd4 ./src/LiquidCrystal.o
+ .text.gpio_write
+                0x000045e0       0xc4 ./src/LiquidCrystal.o
+ .text.pin2pincode
+                0x000046a4       0x28 ./src/LiquidCrystal.o
+ .text.pinMode  0x000046cc       0x6c ./src/LiquidCrystal.o
+ .text.digitalWrite
+                0x00004738       0x28 ./src/LiquidCrystal.o
+ .text.delayMicroseconds
+                0x00004760       0x18 ./src/LiquidCrystal.o
+ .text.LCD_Init
+                0x00004778      0x148 ./src/LiquidCrystal.o
+                0x00004778                LCD_Init
+ .text.LCD_Begin
+                0x000048c0      0x270 ./src/LiquidCrystal.o
+                0x000048c0                LCD_Begin
+ .text.LCD_Clear
+                0x00004b30       0x78 ./src/LiquidCrystal.o
+                0x00004b30                LCD_Clear
+ .text.LCD_Home
+                0x00004ba8       0x78 ./src/LiquidCrystal.o
+                0x00004ba8                LCD_Home
+ .text.LCD_SetCursor
+                0x00004c20      0x13c ./src/LiquidCrystal.o
+                0x00004c20                LCD_SetCursor
+ .text.LCD_DisplayReorient
+                0x00004d5c       0xfc ./src/LiquidCrystal.o
+                0x00004d5c                LCD_DisplayReorient
+ .text.LCD_NoDisplay
+                0x00004e58       0x6c ./src/LiquidCrystal.o
+                0x00004e58                LCD_NoDisplay
+ .text.LCD_Display
+                0x00004ec4       0x6c ./src/LiquidCrystal.o
+                0x00004ec4                LCD_Display
+ .text.LCD_NoCursor
+                0x00004f30       0x6c ./src/LiquidCrystal.o
+                0x00004f30                LCD_NoCursor
+ .text.LCD_Cursor
+                0x00004f9c       0x6c ./src/LiquidCrystal.o
+                0x00004f9c                LCD_Cursor
+ .text.LCD_NoBlink
+                0x00005008       0x6c ./src/LiquidCrystal.o
+                0x00005008                LCD_NoBlink
+ .text.LCD_Blink
+                0x00005074       0x6c ./src/LiquidCrystal.o
+                0x00005074                LCD_Blink
+ .text.LCD_PosCheck
+                0x000050e0      0x200 ./src/LiquidCrystal.o
+                0x000050e0                LCD_PosCheck
+ .text.LCD_ScrollDisplayLeft
+                0x000052e0       0x90 ./src/LiquidCrystal.o
+                0x000052e0                LCD_ScrollDisplayLeft
+ .text.LCD_ScrollDisplayRight
+                0x00005370       0xac ./src/LiquidCrystal.o
+                0x00005370                LCD_ScrollDisplayRight
+ .text.LCD_MoveCursorLeft
+                0x0000541c       0x7c ./src/LiquidCrystal.o
+                0x0000541c                LCD_MoveCursorLeft
+ .text.LCD_MoveCursorRight
+                0x00005498       0x7c ./src/LiquidCrystal.o
+                0x00005498                LCD_MoveCursorRight
+ .text.LCD_AutoScroll
+                0x00005514       0x74 ./src/LiquidCrystal.o
+                0x00005514                LCD_AutoScroll
+ .text.LCD_NoAutoScroll
+                0x00005588       0x74 ./src/LiquidCrystal.o
+                0x00005588                LCD_NoAutoScroll
+ .text.LCD_LeftToRight
+                0x000055fc       0x80 ./src/LiquidCrystal.o
+                0x000055fc                LCD_LeftToRight
+ .text.LCD_RightToLeft
+                0x0000567c       0x80 ./src/LiquidCrystal.o
+                0x0000567c                LCD_RightToLeft
+ .text.LCD_CreateChar
+                0x000056fc       0x6c ./src/LiquidCrystal.o
+                0x000056fc                LCD_CreateChar
+ .text.LCD_Command
+                0x00005768       0x24 ./src/LiquidCrystal.o
+                0x00005768                LCD_Command
+ .text.LCD_Write
+                0x0000578c       0x60 ./src/LiquidCrystal.o
+                0x0000578c                LCD_Write
+ .text.LCD_Print
+                0x000057ec       0x74 ./src/LiquidCrystal.o
+                0x000057ec                LCD_Print
+ .text.LCD_Send
+                0x00005860      0x128 ./src/LiquidCrystal.o
+                0x00005860                LCD_Send
+ .text.LCD_PulseEnable
+                0x00005988      0x110 ./src/LiquidCrystal.o
+                0x00005988                LCD_PulseEnable
+ .text.LCD_Write4Bits
+                0x00005a98      0x128 ./src/LiquidCrystal.o
+                0x00005a98                LCD_Write4Bits
+ .text.LCD_Write8Bits
+                0x00005bc0       0xb4 ./src/LiquidCrystal.o
+                0x00005bc0                LCD_Write8Bits
+ .text.LCD_SPISendOut
+                0x00005c74       0xb4 ./src/LiquidCrystal.o
+                0x00005c74                LCD_SPISendOut
+ .text.LCD_InitSPI
+                0x00005d28       0xc0 ./src/LiquidCrystal.o
+                0x00005d28                LCD_InitSPI
+ .text.bitWrite
+                0x00005de8       0xa4 ./src/LiquidCrystal.o
+                0x00005de8                bitWrite
+ .text.gpio_direction
+                0x00005e8c      0x11c ./src/Lab11_LCD_Arduino_KEA128.o
+ .text.gpio_write
+                0x00005fa8       0xc4 ./src/Lab11_LCD_Arduino_KEA128.o
+ .text.delayMicroseconds
+                0x0000606c       0x18 ./src/Lab11_LCD_Arduino_KEA128.o
+ .text.RTC_ISR  0x00006084      0x27c ./src/Lab11_LCD_Arduino_KEA128.o
+                0x00006084                RTC_ISR
+ .text.Brighter
+                0x00006300       0x58 ./src/Lab11_LCD_Arduino_KEA128.o
+                0x00006300                Brighter
+ .text.Dimmer   0x00006358       0x50 ./src/Lab11_LCD_Arduino_KEA128.o
+                0x00006358                Dimmer
+ .text.KBI_ISR  0x000063a8       0x44 ./src/Lab11_LCD_Arduino_KEA128.o
+                0x000063a8                KBI_ISR
+ .text.main     0x000063ec      0x288 ./src/Lab11_LCD_Arduino_KEA128.o
+                0x000063ec                main
+ .text.DFR0009_InitParams
+                0x00006674       0x7c ./src/LCD_DFR0009.o
+                0x00006674                DFR0009_InitParams
+ .text.LCDInit  0x000066f0       0xb8 ./src/LCD_DFR0009.o
+                0x000066f0                LCDInit
+ .text.LCDBegin
+                0x000067a8       0x38 ./src/LCD_DFR0009.o
+                0x000067a8                LCDBegin
+ .text.LCDClear
+                0x000067e0       0x18 ./src/LCD_DFR0009.o
+                0x000067e0                LCDClear
+ .text.LCDHome  0x000067f8       0x18 ./src/LCD_DFR0009.o
+                0x000067f8                LCDHome
+ .text.LCDSetCursor
+                0x00006810       0x34 ./src/LCD_DFR0009.o
+                0x00006810                LCDSetCursor
+ .text.LCDNoDisplay
+                0x00006844       0x18 ./src/LCD_DFR0009.o
+                0x00006844                LCDNoDisplay
+ .text.LCDDisplay
+                0x0000685c       0x18 ./src/LCD_DFR0009.o
+                0x0000685c                LCDDisplay
+ .text.LCDNoCursor
+                0x00006874       0x18 ./src/LCD_DFR0009.o
+                0x00006874                LCDNoCursor
+ .text.LCDCursor
+                0x0000688c       0x18 ./src/LCD_DFR0009.o
+                0x0000688c                LCDCursor
+ .text.LCDNoBlink
+                0x000068a4       0x18 ./src/LCD_DFR0009.o
+                0x000068a4                LCDNoBlink
+ .text.LCDBlink
+                0x000068bc       0x18 ./src/LCD_DFR0009.o
+                0x000068bc                LCDBlink
+ .text.LCDScrollDisplayLeft
+                0x000068d4       0x18 ./src/LCD_DFR0009.o
+                0x000068d4                LCDScrollDisplayLeft
+ .text.LCDScrollDisplayRight
+                0x000068ec       0x18 ./src/LCD_DFR0009.o
+                0x000068ec                LCDScrollDisplayRight
+ .text.LCDAutoScroll
+                0x00006904       0x18 ./src/LCD_DFR0009.o
+                0x00006904                LCDAutoScroll
+ .text.LCDNoAutoScroll
+                0x0000691c       0x18 ./src/LCD_DFR0009.o
+                0x0000691c                LCDNoAutoScroll
+ .text.LCDLeftToRight
+                0x00006934       0x18 ./src/LCD_DFR0009.o
+                0x00006934                LCDLeftToRight
+ .text.LCDRightToLeft
+                0x0000694c       0x18 ./src/LCD_DFR0009.o
+                0x0000694c                LCDRightToLeft
+ .text.LCDCreateChar
+                0x00006964       0x2c ./src/LCD_DFR0009.o
+                0x00006964                LCDCreateChar
+ .text.LCDCommand
+                0x00006990       0x24 ./src/LCD_DFR0009.o
+                0x00006990                LCDCommand
+ .text.LCDWrite
+                0x000069b4       0x28 ./src/LCD_DFR0009.o
+                0x000069b4                LCDWrite
+ .text.LCDSend  0x000069dc       0x34 ./src/LCD_DFR0009.o
+                0x000069dc                LCDSend
+ .text.LCDPulseEnable
+                0x00006a10       0x18 ./src/LCD_DFR0009.o
+                0x00006a10                LCDPulseEnable
+ .text.LCDWrite4Bits
+                0x00006a28       0x24 ./src/LCD_DFR0009.o
+                0x00006a28                LCDWrite4Bits
+ .text.LCDWrite8Bits
+                0x00006a4c       0x24 ./src/LCD_DFR0009.o
+                0x00006a4c                LCDWrite8Bits
+ .text.LCDSPISendOut
+                0x00006a70       0x18 ./src/LCD_DFR0009.o
+                0x00006a70                LCDSPISendOut
+ .text.LCDSPIInit
+                0x00006a88       0x24 ./src/LCD_DFR0009.o
+                0x00006a88                LCDSPIInit
+ .text.LCDPrint
+                0x00006aac       0x1c ./src/LCD_DFR0009.o
+                0x00006aac                LCDPrint
+ .text.LCDMoveCursorLeft
+                0x00006ac8       0x18 ./src/LCD_DFR0009.o
+                0x00006ac8                LCDMoveCursorLeft
+ .text.LCDMoveCursorRight
+                0x00006ae0       0x18 ./src/LCD_DFR0009.o
+                0x00006ae0                LCDMoveCursorRight
+ .text.strtol   0x00006af8       0x70 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o)
+                0x00006af8                strtol
+ .text.atoi     0x00006b68        0xc C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o)
+                0x00006b68                atoi
+ .text.exit     0x00006b74       0x38 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(exit.o)
+                0x00006b74                exit
+ .text.rand     0x00006bac       0x20 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(rand.o)
+                0x00006bac                rand
+ .text.__strtoul
+                0x00006bcc      0x1c8 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__strtoul.o)
+                0x00006bcc                __strtoul
+ .text.memcpy   0x00006d94       0x12 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memcpy.o)
+                0x00006d94                memcpy
+ .text.memset   0x00006da6        0xc C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memset.o)
+                0x00006da6                memset
+ .text.strlen   0x00006db2        0xe C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(strlen.o)
+                0x00006db2                strlen
+ .text.isalpha  0x00006dc0       0x1c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+                0x00006dc0                isalpha
+ .text.isspace  0x00006ddc       0x1c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+                0x00006ddc                isspace
+ .text.toupper  0x00006df8        0xc C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+                0x00006df8                toupper
+ .text.__StringRead
+                0x00006e04       0x3e C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsscanf.o)
+                0x00006e04                __StringRead
+ .text.__fill_mem
+                0x00006e42       0x82 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__filll_mem.o)
+                0x00006e42                __fill_mem
+ .text.__init_cpp
+                0x00006ec4       0x48 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+                0x00006ec4                __init_cpp
+ .text.__fini_cpp
+                0x00006f0c       0x34 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+                0x00006f0c                __fini_cpp
+ .text._ExitProcess
+                0x00006f40        0x2 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+                0x00006f40                _ExitProcess
+ *fill*         0x00006f42        0x2 
+ .text.__destroy_global_chain
+                0x00006f44       0x1c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                0x00006f44                __destroy_global_chain
+ .text.__init_registers
+                0x00006f60       0x1c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                0x00006f60                __init_registers
+ .text.__init_hardware
+                0x00006f7c        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                0x00006f7c                __init_hardware
+ .text.__init_user
+                0x00006f80        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                0x00006f80                __init_user
+ .text.__copy_rom_section
+                0x00006f84       0x40 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+                0x00006f84                __copy_rom_section
+ .text.__copy_rom_sections_to_ram
+                0x00006fc4       0x34 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+                0x00006fc4                __copy_rom_sections_to_ram
+ *(.rodata)
+ .rodata        0x00006ff8      0x168 ./src/lcd_routines.o
+ .rodata        0x00007160      0x100 ./src/kbi.o
+ .rodata        0x00007260       0x2c ./src/LiquidCrystal.o
+ .rodata        0x0000728c       0x14 ./src/Lab11_LCD_Arduino_KEA128.o
+ *(.rodata*)
+ .rodata.g_msf_pins_arduino
+                0x000072a0       0x5c ./MSF/board/frdm_kea/arduino.o
+                0x000072a0                g_msf_pins_arduino
+ .rodata.SPIsetClockDivider
+                0x000072fc       0x1c ./MSF/board/frdm_kea/arduino.o
+ .rodata.SPI    0x00007318       0x18 ./MSF/board/frdm_kea/arduino.o
+                0x00007318                SPI
+ .rodata.UART0_Resources
+                0x00007330        0xc ./MSF/platform/kea/uart_kea.o
+ .rodata.UART1_Resources
+                0x0000733c        0xc ./MSF/platform/kea/uart_kea.o
+ .rodata.UART2_Resources
+                0x00007348        0xc ./MSF/platform/kea/uart_kea.o
+ .rodata.Driver_UART2
+                0x00007354       0x24 ./MSF/platform/kea/uart_kea.o
+                0x00007354                Driver_UART2
+ .rodata.SPI0_Resources
+                0x00007378        0xc ./MSF/platform/kea/spi_kea.o
+ .rodata.Driver_SPI0
+                0x00007384       0x10 ./MSF/platform/kea/spi_kea.o
+                0x00007384                Driver_SPI0
+ .rodata.FTM0_Resources
+                0x00007394       0x10 ./MSF/platform/kea/ftm_kea.o
+ .rodata.FTM1_Resources
+                0x000073a4       0x10 ./MSF/platform/kea/ftm_kea.o
+ .rodata.FTM2_Resources
+                0x000073b4       0x10 ./MSF/platform/kea/ftm_kea.o
+ .rodata.FTM_ChannelSetMode
+                0x000073c4       0x38 ./MSF/platform/kea/ftm_kea.o
+ .rodata.Driver_FTM1
+                0x000073fc       0x1c ./MSF/platform/kea/ftm_kea.o
+                0x000073fc                Driver_FTM1
+ .rodata.wftm_enable_pin
+                0x00007418       0x18 ./MSF/platform/kea/ftm_kea.o
+ .rodata.ADC0_Resources
+                0x00007430        0x8 ./MSF/platform/kea/adc_kea.o
+ .rodata.Driver_ADC0
+                0x00007438       0x18 ./MSF/platform/kea/adc_kea.o
+                0x00007438                Driver_ADC0
+ .rodata.print_fortune
+                0x00007450       0x18 ./src/lcd_routines.o
+ .rodata.RTC_ISR
+                0x00007468       0x14 ./src/Lab11_LCD_Arduino_KEA128.o
+ .rodata.main   0x0000747c       0x14 ./src/Lab11_LCD_Arduino_KEA128.o
+ .rodata.__aeabi_ctype_table_C
+                0x00007490      0x101 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+                0x00007490                __aeabi_ctype_table_C
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x00007594                . = ALIGN (0x4)
+ *fill*         0x00007591        0x3 
+
+.vfp11_veneer   0x00007594        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00007594        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00007594        0x0
+ .iplt          0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+
+.rel.dyn        0x00007594        0x0
+ .rel.iplt      0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x00007594        0x0
+                0x00007594                __exidx_start = .
+ *(.ARM.exidx*)
+                0x00007594                __exidx_end = .
+
+.ctors          0x00007594        0x0
+                0x00007594                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x00007594                __CTOR_END__ = .
+
+.dtors          0x00007594        0x0
+                0x00007594                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x00007594                __DTOR_END__ = .
+
+.preinit_array  0x00007594        0x0
+                0x00007594                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x00007594                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x00007594        0x0
+                0x00007594                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+                0x00007594                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00007594        0x0
+                0x00007594                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+                0x00007594                PROVIDE (__fini_array_end, .)
+                0x00007594                __etext = .
+                0x00007594                __DATA_ROM = .
+
+.mtb            0x1ffff000        0x0
+                0x1ffff000                . = ALIGN (0x8)
+                0x1ffff000                _mtb_start = .
+ *(.mtb_buf)
+                0x1ffff000                . = ALIGN (0x8)
+                0x1ffff000                _mtb_end = .
+
+.data           0x1ffff000      0x374 load address 0x00007594
+                0x1ffff000                . = ALIGN (0x4)
+                0x1ffff000                __DATA_RAM = .
+                0x1ffff000                __data_start__ = .
+                0x1ffff000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.UART0_Pins
+                0x1ffff000        0x8 ./MSF/platform/kea/uart_kea.o
+ .data.UART1_Pins
+                0x1ffff008        0x8 ./MSF/platform/kea/uart_kea.o
+ .data.UART2_Pins
+                0x1ffff010        0x8 ./MSF/platform/kea/uart_kea.o
+ .data.SPI0_Pins
+                0x1ffff018        0xc ./MSF/platform/kea/spi_kea.o
+ .data.FTM0_Pins
+                0x1ffff024       0x18 ./MSF/platform/kea/ftm_kea.o
+ .data.FTM1_Pins
+                0x1ffff03c       0x18 ./MSF/platform/kea/ftm_kea.o
+ .data.FTM2_Pins
+                0x1ffff054       0x18 ./MSF/platform/kea/ftm_kea.o
+ .data.msg_instruction
+                0x1ffff06c       0x34 ./src/Lab11_LCD_Arduino_KEA128.o
+                0x1ffff06c                msg_instruction
+ .data.arithmetic_instructions
+                0x1ffff0a0       0xcc ./src/Lab11_LCD_Arduino_KEA128.o
+                0x1ffff0a0                arithmetic_instructions
+ .data.adc_instruction
+                0x1ffff16c       0x74 ./src/Lab11_LCD_Arduino_KEA128.o
+                0x1ffff16c                adc_instruction
+ .data.echo_instructions
+                0x1ffff1e0       0x74 ./src/Lab11_LCD_Arduino_KEA128.o
+                0x1ffff1e0                echo_instructions
+ .data.intro    0x1ffff254       0x28 ./src/Lab11_LCD_Arduino_KEA128.o
+                0x1ffff254                intro
+ .data.fortune_instruction
+                0x1ffff27c       0x80 ./src/Lab11_LCD_Arduino_KEA128.o
+                0x1ffff27c                fortune_instruction
+ .data.driverlcd
+                0x1ffff2fc       0x74 ./src/LCD_DFR0009.o
+                0x1ffff2fc                driverlcd
+ .data.random_next
+                0x1ffff370        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(rand.o)
+ *(.jcr*)
+                0x1ffff374                . = ALIGN (0x4)
+                0x1ffff374                __data_end__ = .
+                0x1ffff374                _edata = .
+                0x00007908                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+                0x00000374                ___data_size = (_edata - _sdata)
+
+.igot.plt       0x1ffff374        0x0 load address 0x00007908
+ .igot.plt      0x00000000        0x0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+
+.bss            0x1ffff374      0x13c load address 0x00007908
+                0x1ffff374                . = ALIGN (0x4)
+                0x1ffff374                __START_BSS = .
+                0x1ffff374                __bss_start__ = .
+ *(.bss)
+ *(.bss*)
+ .bss.argv      0x1ffff374        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .bss.UART0_Info
+                0x1ffff378       0x20 ./MSF/platform/kea/uart_kea.o
+ .bss.UART1_Info
+                0x1ffff398       0x20 ./MSF/platform/kea/uart_kea.o
+ .bss.UART2_Info
+                0x1ffff3b8       0x20 ./MSF/platform/kea/uart_kea.o
+ .bss.char_received
+                0x1ffff3d8        0x1 ./MSF/platform/kea/uart_kea.o
+                0x1ffff3d8                char_received
+ .bss.char_transmitted
+                0x1ffff3d9        0x1 ./MSF/platform/kea/uart_kea.o
+                0x1ffff3d9                char_transmitted
+ *fill*         0x1ffff3da        0x2 
+ .bss.SPI0_Info
+                0x1ffff3dc       0x18 ./MSF/platform/kea/spi_kea.o
+ .bss.FTM0_Info
+                0x1ffff3f4        0x8 ./MSF/platform/kea/ftm_kea.o
+ .bss.FTM1_Info
+                0x1ffff3fc        0x8 ./MSF/platform/kea/ftm_kea.o
+ .bss.FTM2_Info
+                0x1ffff404        0x8 ./MSF/platform/kea/ftm_kea.o
+ .bss.ADC0_Info
+                0x1ffff40c        0xc ./MSF/platform/kea/adc_kea.o
+ .bss.RTC_Callback
+                0x1ffff418        0x4 ./src/rtc.o
+                0x1ffff418                RTC_Callback
+ .bss.ascii_adc
+                0x1ffff41c        0x4 ./src/lcd_routines.o
+                0x1ffff41c                ascii_adc
+ .bss.ascii_math
+                0x1ffff420        0xc ./src/lcd_routines.o
+                0x1ffff420                ascii_math
+ .bss.first_operand
+                0x1ffff42c        0x8 ./src/lcd_routines.o
+                0x1ffff42c                first_operand
+ .bss.second_operand
+                0x1ffff434        0x8 ./src/lcd_routines.o
+                0x1ffff434                second_operand
+ .bss.ascii_result
+                0x1ffff43c        0xc ./src/lcd_routines.o
+                0x1ffff43c                ascii_result
+ .bss.ascii_remainder
+                0x1ffff448        0x4 ./src/lcd_routines.o
+                0x1ffff448                ascii_remainder
+ .bss.lcd_mode_old
+                0x1ffff44c        0x1 ./src/lcd_routines.o
+                0x1ffff44c                lcd_mode_old
+ .bss.ch.5597   0x1ffff44d        0x1 ./src/lcd_routines.o
+ .bss.ch.5731   0x1ffff44e        0x1 ./src/lcd_routines.o
+ .bss.ch_previous.5728
+                0x1ffff44f        0x1 ./src/lcd_routines.o
+ .bss.fortune_length.5727
+                0x1ffff450        0x1 ./src/lcd_routines.o
+ *fill*         0x1ffff451        0x3 
+ .bss.KBI_Callback
+                0x1ffff454        0x8 ./src/kbi.o
+                0x1ffff454                KBI_Callback
+ .bss.lcd       0x1ffff45c       0x38 ./src/Lab11_LCD_Arduino_KEA128.o
+                0x1ffff45c                lcd
+ .bss.__stdio_exit
+                0x1ffff494        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(exit.o)
+                0x1ffff494                __stdio_exit
+ .bss.__console_exit
+                0x1ffff498        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(exit.o)
+                0x1ffff498                __console_exit
+ .bss.__global_destructor_chain
+                0x1ffff49c        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                0x1ffff49c                __global_destructor_chain
+ *(COMMON)
+ COMMON         0x1ffff4a0        0x8 ./MSF/platform/kea/msf.o
+                0x1ffff4a0                gmsf_delaycnt
+                0x1ffff4a4                gmsf_systime
+ COMMON         0x1ffff4a8        0x2 ./src/lcd_routines.o
+                0x1ffff4a8                lcd_mode
+                0x1ffff4a9                button_state
+ *fill*         0x1ffff4aa        0x2 
+ COMMON         0x1ffff4ac        0x4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(errno.o)
+                0x1ffff4ac                errno
+                0x1ffff4b0                . = ALIGN (0x4)
+                0x1ffff4b0                __bss_end__ = .
+                0x1ffff4b0                __END_BSS = .
+                0x00007908                _romp_at = (__DATA_ROM + SIZEOF (.data))
+
+.romp           0x1ffff4b0       0x18 load address 0x00007908
+                0x00007908                __S_romp = _romp_at
+                0x1ffff4b0        0x4 LONG 0x7594 __DATA_ROM
+                0x1ffff4b4        0x4 LONG 0x1ffff000 _sdata
+                0x1ffff4b8        0x4 LONG 0x374 ___data_size
+                0x1ffff4bc        0x4 LONG 0x0
+                0x1ffff4c0        0x4 LONG 0x0
+                0x1ffff4c4        0x4 LONG 0x0
+
+.heap           0x1ffff4c8      0x400 load address 0x00007920
+                0x1ffff4c8                . = ALIGN (0x8)
+                0x1ffff4c8                __end__ = .
+                0x1ffff4c8                PROVIDE (end, .)
+                0x1ffff4c8                __HeapBase = .
+                0x1ffff8c8                . = (. + HEAP_SIZE)
+ *fill*         0x1ffff4c8      0x400 
+                0x1ffff8c8                __HeapLimit = .
+
+.stack          0x1ffff8c8      0x400 load address 0x00007d20
+                0x1ffff8c8                . = ALIGN (0x8)
+                0x1ffffcc8                . = (. + STACK_SIZE)
+ *fill*         0x1ffff8c8      0x400 
+                0x1ffffcc8                __StackTop = .
+                0x1ffff8c8                __StackLimit = (__StackTop - STACK_SIZE)
+                0x1ffffcc8                PROVIDE (__stack, __StackTop)
+
+.ARM.attributes
+                0x00000000       0x2f
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .ARM.attributes
+                0x00000031       0x32 ./MSF/board/frdm_kea/arduino.o
+ .ARM.attributes
+                0x00000063       0x32 ./MSF/platform/kea/uart_kea.o
+ .ARM.attributes
+                0x00000095       0x32 ./MSF/platform/kea/spi_kea.o
+ .ARM.attributes
+                0x000000c7       0x32 ./MSF/platform/kea/msf.o
+ .ARM.attributes
+                0x000000f9       0x32 ./MSF/platform/kea/ftm_kea.o
+ .ARM.attributes
+                0x0000012b       0x32 ./MSF/platform/kea/adc_kea.o
+ .ARM.attributes
+                0x0000015d       0x32 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .ARM.attributes
+                0x0000018f       0x1b ./Project_Settings/Startup_Code/startup_SKEAZ1284.o
+ .ARM.attributes
+                0x000001aa       0x32 ./src/rtc.o
+ .ARM.attributes
+                0x000001dc       0x32 ./src/nvic.o
+ .ARM.attributes
+                0x0000020e       0x32 ./src/lcd_routines.o
+ .ARM.attributes
+                0x00000240       0x32 ./src/kbi.o
+ .ARM.attributes
+                0x00000272       0x32 ./src/ics.o
+ .ARM.attributes
+                0x000002a4       0x32 ./src/LiquidCrystal.o
+ .ARM.attributes
+                0x000002d6       0x32 ./src/Lab11_LCD_Arduino_KEA128.o
+ .ARM.attributes
+                0x00000308       0x32 ./src/LCD_DFR0009.o
+ .ARM.attributes
+                0x0000033a       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o)
+ .ARM.attributes
+                0x0000036b       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(exit.o)
+ .ARM.attributes
+                0x0000039c       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(rand.o)
+ .ARM.attributes
+                0x000003cd       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__strtoul.o)
+ .ARM.attributes
+                0x000003fe       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memcpy.o)
+ .ARM.attributes
+                0x0000042f       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memset.o)
+ .ARM.attributes
+                0x00000460       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(strlen.o)
+ .ARM.attributes
+                0x00000491       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .ARM.attributes
+                0x000004c2       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(errno.o)
+ .ARM.attributes
+                0x000004f3       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsscanf.o)
+ .ARM.attributes
+                0x00000524       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__filll_mem.o)
+ .ARM.attributes
+                0x00000555       0x1e c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_sqi.o)
+ .ARM.attributes
+                0x00000573       0x1e c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000591       0x1e c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x000005af       0x1e c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000005cd       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .ARM.attributes
+                0x000005fe       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .ARM.attributes
+                0x0000062f       0x31 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+OUTPUT(Lab11_LCD_Arduino_KEA128.elf elf32-littlearm)
+
+.debug_info     0x00000000     0xb1b2
+ .debug_info    0x00000000      0x144 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .debug_info    0x00000144      0xe3c ./MSF/board/frdm_kea/arduino.o
+ .debug_info    0x00000f80     0x124d ./MSF/platform/kea/uart_kea.o
+ .debug_info    0x000021cd      0xbce ./MSF/platform/kea/spi_kea.o
+ .debug_info    0x00002d9b      0x700 ./MSF/platform/kea/msf.o
+ .debug_info    0x0000349b     0x1279 ./MSF/platform/kea/ftm_kea.o
+ .debug_info    0x00004714      0x65a ./MSF/platform/kea/adc_kea.o
+ .debug_info    0x00004d6e      0x31d ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_info    0x0000508b       0x94 ./Project_Settings/Startup_Code/startup_SKEAZ1284.o
+ .debug_info    0x0000511f      0x46d ./src/rtc.o
+ .debug_info    0x0000558c      0x34f ./src/nvic.o
+ .debug_info    0x000058db      0xf25 ./src/lcd_routines.o
+ .debug_info    0x00006800      0x54a ./src/kbi.o
+ .debug_info    0x00006d4a       0xe2 ./src/ics.o
+ .debug_info    0x00006e2c     0x10aa ./src/LiquidCrystal.o
+ .debug_info    0x00007ed6     0x1278 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_info    0x0000914e      0xa63 ./src/LCD_DFR0009.o
+ .debug_info    0x00009bb1      0x227 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o)
+ .debug_info    0x00009dd8       0xe8 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(exit.o)
+ .debug_info    0x00009ec0      0x100 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(rand.o)
+ .debug_info    0x00009fc0      0x1d6 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_info    0x0000a196      0x10f C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memcpy.o)
+ .debug_info    0x0000a2a5       0xec C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memset.o)
+ .debug_info    0x0000a391       0xe9 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(strlen.o)
+ .debug_info    0x0000a47a      0x306 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_info    0x0000a780       0x9d C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(errno.o)
+ .debug_info    0x0000a81d      0x250 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsscanf.o)
+ .debug_info    0x0000aa6d      0x137 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_info    0x0000aba4      0x14a C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_info    0x0000acee      0x2b5 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_info    0x0000afa3      0x20f C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+
+.debug_abbrev   0x00000000     0x2921
+ .debug_abbrev  0x00000000       0xc0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .debug_abbrev  0x000000c0      0x2a4 ./MSF/board/frdm_kea/arduino.o
+ .debug_abbrev  0x00000364      0x2e1 ./MSF/platform/kea/uart_kea.o
+ .debug_abbrev  0x00000645      0x29b ./MSF/platform/kea/spi_kea.o
+ .debug_abbrev  0x000008e0      0x27e ./MSF/platform/kea/msf.o
+ .debug_abbrev  0x00000b5e      0x2b2 ./MSF/platform/kea/ftm_kea.o
+ .debug_abbrev  0x00000e10      0x218 ./MSF/platform/kea/adc_kea.o
+ .debug_abbrev  0x00001028      0x102 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_abbrev  0x0000112a       0x14 ./Project_Settings/Startup_Code/startup_SKEAZ1284.o
+ .debug_abbrev  0x0000113e      0x1ae ./src/rtc.o
+ .debug_abbrev  0x000012ec      0x11a ./src/nvic.o
+ .debug_abbrev  0x00001406      0x218 ./src/lcd_routines.o
+ .debug_abbrev  0x0000161e      0x1ac ./src/kbi.o
+ .debug_abbrev  0x000017ca       0x82 ./src/ics.o
+ .debug_abbrev  0x0000184c      0x29f ./src/LiquidCrystal.o
+ .debug_abbrev  0x00001aeb      0x290 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_abbrev  0x00001d7b      0x163 ./src/LCD_DFR0009.o
+ .debug_abbrev  0x00001ede       0xd4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o)
+ .debug_abbrev  0x00001fb2       0x7a C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(exit.o)
+ .debug_abbrev  0x0000202c       0x8e C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(rand.o)
+ .debug_abbrev  0x000020ba       0xc2 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_abbrev  0x0000217c       0x95 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memcpy.o)
+ .debug_abbrev  0x00002211       0x62 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memset.o)
+ .debug_abbrev  0x00002273       0x7a C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(strlen.o)
+ .debug_abbrev  0x000022ed       0x85 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_abbrev  0x00002372       0x44 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(errno.o)
+ .debug_abbrev  0x000023b6      0x15d C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsscanf.o)
+ .debug_abbrev  0x00002513       0x78 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_abbrev  0x0000258b       0xae C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_abbrev  0x00002639      0x1ba C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_abbrev  0x000027f3      0x12e C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+
+.debug_aranges  0x00000000      0xc48
+ .debug_aranges
+                0x00000000       0x28 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .debug_aranges
+                0x00000028       0xd0 ./MSF/board/frdm_kea/arduino.o
+ .debug_aranges
+                0x000000f8      0x188 ./MSF/platform/kea/uart_kea.o
+ .debug_aranges
+                0x00000280       0x98 ./MSF/platform/kea/spi_kea.o
+ .debug_aranges
+                0x00000318       0x60 ./MSF/platform/kea/msf.o
+ .debug_aranges
+                0x00000378      0x148 ./MSF/platform/kea/ftm_kea.o
+ .debug_aranges
+                0x000004c0       0x80 ./MSF/platform/kea/adc_kea.o
+ .debug_aranges
+                0x00000540       0x28 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_aranges
+                0x00000568       0x20 ./Project_Settings/Startup_Code/startup_SKEAZ1284.o
+ .debug_aranges
+                0x00000588       0x60 ./src/rtc.o
+ .debug_aranges
+                0x000005e8       0x48 ./src/nvic.o
+ .debug_aranges
+                0x00000630       0x70 ./src/lcd_routines.o
+ .debug_aranges
+                0x000006a0       0x40 ./src/kbi.o
+ .debug_aranges
+                0x000006e0       0x20 ./src/ics.o
+ .debug_aranges
+                0x00000700      0x150 ./src/LiquidCrystal.o
+ .debug_aranges
+                0x00000850       0x58 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_aranges
+                0x000008a8      0x108 ./src/LCD_DFR0009.o
+ .debug_aranges
+                0x000009b0       0x30 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o)
+ .debug_aranges
+                0x000009e0       0x20 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(exit.o)
+ .debug_aranges
+                0x00000a00       0x28 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(rand.o)
+ .debug_aranges
+                0x00000a28       0x20 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_aranges
+                0x00000a48       0x20 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memcpy.o)
+ .debug_aranges
+                0x00000a68       0x20 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memset.o)
+ .debug_aranges
+                0x00000a88       0x20 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(strlen.o)
+ .debug_aranges
+                0x00000aa8       0x88 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_aranges
+                0x00000b30       0x18 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(errno.o)
+ .debug_aranges
+                0x00000b48       0x28 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsscanf.o)
+ .debug_aranges
+                0x00000b70       0x20 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_aranges
+                0x00000b90       0x30 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_aranges
+                0x00000bc0       0x58 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_aranges
+                0x00000c18       0x30 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+
+.debug_line     0x00000000     0x5ab2
+ .debug_line    0x00000000       0x68 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .debug_line    0x00000068      0x70d ./MSF/board/frdm_kea/arduino.o
+ .debug_line    0x00000775      0x810 ./MSF/platform/kea/uart_kea.o
+ .debug_line    0x00000f85      0x4ff ./MSF/platform/kea/spi_kea.o
+ .debug_line    0x00001484      0x4f9 ./MSF/platform/kea/msf.o
+ .debug_line    0x0000197d      0x82a ./MSF/platform/kea/ftm_kea.o
+ .debug_line    0x000021a7      0x450 ./MSF/platform/kea/adc_kea.o
+ .debug_line    0x000025f7      0x257 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_line    0x0000284e       0x87 ./Project_Settings/Startup_Code/startup_SKEAZ1284.o
+ .debug_line    0x000028d5      0x2db ./src/rtc.o
+ .debug_line    0x00002bb0      0x26f ./src/nvic.o
+ .debug_line    0x00002e1f      0x82a ./src/lcd_routines.o
+ .debug_line    0x00003649      0x2a3 ./src/kbi.o
+ .debug_line    0x000038ec      0x218 ./src/ics.o
+ .debug_line    0x00003b04      0x8fe ./src/LiquidCrystal.o
+ .debug_line    0x00004402      0x625 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_line    0x00004a27      0x631 ./src/LCD_DFR0009.o
+ .debug_line    0x00005058       0xd3 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o)
+ .debug_line    0x0000512b       0x8d C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(exit.o)
+ .debug_line    0x000051b8       0x95 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(rand.o)
+ .debug_line    0x0000524d      0x119 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_line    0x00005366       0x8e C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memcpy.o)
+ .debug_line    0x000053f4       0x90 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memset.o)
+ .debug_line    0x00005484       0x85 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(strlen.o)
+ .debug_line    0x00005509      0x1b9 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_line    0x000056c2       0x4d C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(errno.o)
+ .debug_line    0x0000570f       0xc5 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsscanf.o)
+ .debug_line    0x000057d4       0xaf C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_line    0x00005883       0x74 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_line    0x000058f7      0x10f C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_line    0x00005a06       0xac C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+
+.debug_str      0x00000000    0x21583
+ .debug_str     0x00000000      0x1ed C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+                                0x286 (size before relaxing)
+ .debug_str     0x000001ed    0x1e920 ./MSF/board/frdm_kea/arduino.o
+                              0x1ed5e (size before relaxing)
+ .debug_str     0x0001eb0d      0x7ec ./MSF/platform/kea/uart_kea.o
+                              0x1d7ae (size before relaxing)
+ .debug_str     0x0001f2f9      0x1fe ./MSF/platform/kea/spi_kea.o
+                              0x1d275 (size before relaxing)
+ .debug_str     0x0001f4f7      0x1ad ./MSF/platform/kea/msf.o
+                              0x1d652 (size before relaxing)
+ .debug_str     0x0001f6a4      0x438 ./MSF/platform/kea/ftm_kea.o
+                              0x1d876 (size before relaxing)
+ .debug_str     0x0001fadc      0x127 ./MSF/platform/kea/adc_kea.o
+                              0x1cda0 (size before relaxing)
+ .debug_str     0x0001fc03       0xb9 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+                              0x1b12d (size before relaxing)
+ .debug_str     0x0001fcbc      0x2c9 ./src/rtc.o
+                              0x1b4e4 (size before relaxing)
+ .debug_str     0x0001ff85       0x52 ./src/nvic.o
+                              0x1b2b4 (size before relaxing)
+ .debug_str     0x0001ffd7      0x7b9 ./src/lcd_routines.o
+                              0x1eb3a (size before relaxing)
+ .debug_str     0x00020790      0x148 ./src/kbi.o
+                              0x1b39e (size before relaxing)
+ .debug_str     0x000208d8       0x22 ./src/ics.o
+                              0x1b02b (size before relaxing)
+ .debug_str     0x000208fa      0x2d4 ./src/LiquidCrystal.o
+                              0x1e834 (size before relaxing)
+ .debug_str     0x00020bce      0x113 ./src/Lab11_LCD_Arduino_KEA128.o
+                              0x1f18b (size before relaxing)
+ .debug_str     0x00020ce1      0x1a4 ./src/LCD_DFR0009.o
+                              0x1e67a (size before relaxing)
+ .debug_str     0x00020e85      0x1de C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o)
+                                0x29b (size before relaxing)
+ .debug_str     0x00021063       0x2e C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(exit.o)
+                                0x243 (size before relaxing)
+ .debug_str     0x00021091       0x30 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(rand.o)
+                                0x23e (size before relaxing)
+ .debug_str     0x000210c1       0xab C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__strtoul.o)
+                                0x2e7 (size before relaxing)
+ .debug_str     0x0002116c       0x1c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memcpy.o)
+                                0x224 (size before relaxing)
+ .debug_str     0x00021188       0x1c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memset.o)
+                                0x22c (size before relaxing)
+ .debug_str     0x000211a4       0x15 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(strlen.o)
+                                0x22c (size before relaxing)
+ .debug_str     0x000211b9       0x9d C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+                                0x2a8 (size before relaxing)
+ .debug_str     0x00021256       0x12 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(errno.o)
+                                0x218 (size before relaxing)
+ .debug_str     0x00021268       0x4b C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsscanf.o)
+                                0x2d1 (size before relaxing)
+ .debug_str     0x000212b3       0x25 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__filll_mem.o)
+                                0x23e (size before relaxing)
+ .debug_str     0x000212d8      0x113 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+                                0x2a4 (size before relaxing)
+ .debug_str     0x000213eb       0xfe C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                                0x2cb (size before relaxing)
+ .debug_str     0x000214e9       0x9a C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+                                0x249 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./MSF/board/frdm_kea/arduino.o
+ .comment       0x00000000       0x71 ./MSF/platform/kea/uart_kea.o
+ .comment       0x00000000       0x71 ./MSF/platform/kea/spi_kea.o
+ .comment       0x00000000       0x71 ./MSF/platform/kea/msf.o
+ .comment       0x00000000       0x71 ./MSF/platform/kea/ftm_kea.o
+ .comment       0x00000000       0x71 ./MSF/platform/kea/adc_kea.o
+ .comment       0x00000000       0x71 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .comment       0x00000000       0x71 ./src/rtc.o
+ .comment       0x00000000       0x71 ./src/nvic.o
+ .comment       0x00000000       0x71 ./src/lcd_routines.o
+ .comment       0x00000000       0x71 ./src/kbi.o
+ .comment       0x00000000       0x71 ./src/ics.o
+ .comment       0x00000000       0x71 ./src/LiquidCrystal.o
+ .comment       0x00000000       0x71 ./src/Lab11_LCD_Arduino_KEA128.o
+ .comment       0x00000000       0x71 ./src/LCD_DFR0009.o
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(exit.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(rand.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__strtoul.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memcpy.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memset.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(strlen.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(errno.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsscanf.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__filll_mem.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .comment       0x00000000       0x71 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+
+.debug_frame    0x00000000     0x24f8
+ .debug_frame   0x00000000       0x30 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .debug_frame   0x00000030      0x2e0 ./MSF/board/frdm_kea/arduino.o
+ .debug_frame   0x00000310      0x598 ./MSF/platform/kea/uart_kea.o
+ .debug_frame   0x000008a8      0x20c ./MSF/platform/kea/spi_kea.o
+ .debug_frame   0x00000ab4      0x128 ./MSF/platform/kea/msf.o
+ .debug_frame   0x00000bdc      0x4bc ./MSF/platform/kea/ftm_kea.o
+ .debug_frame   0x00001098      0x1a8 ./MSF/platform/kea/adc_kea.o
+ .debug_frame   0x00001240       0x4c ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_frame   0x0000128c      0x120 ./src/rtc.o
+ .debug_frame   0x000013ac       0xd0 ./src/nvic.o
+ .debug_frame   0x0000147c      0x170 ./src/lcd_routines.o
+ .debug_frame   0x000015ec       0xb0 ./src/kbi.o
+ .debug_frame   0x0000169c       0x2c ./src/ics.o
+ .debug_frame   0x000016c8      0x4f8 ./src/LiquidCrystal.o
+ .debug_frame   0x00001bc0      0x110 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_frame   0x00001cd0      0x3d8 ./src/LCD_DFR0009.o
+ .debug_frame   0x000020a8       0x5c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o)
+ .debug_frame   0x00002104       0x2c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(exit.o)
+ .debug_frame   0x00002130       0x30 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(rand.o)
+ .debug_frame   0x00002160       0x30 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_frame   0x00002190       0x28 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memcpy.o)
+ .debug_frame   0x000021b8       0x28 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memset.o)
+ .debug_frame   0x000021e0       0x20 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(strlen.o)
+ .debug_frame   0x00002200       0xf0 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_frame   0x000022f0       0x40 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsscanf.o)
+ .debug_frame   0x00002330       0x2c C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_frame   0x0000235c       0x20 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000237c       0x20 c:/freescale/s32_arm_v1.1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+ .debug_frame   0x0000239c       0x50 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_frame   0x000023ec       0xbc C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_frame   0x000024a8       0x50 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+
+.debug_ranges   0x00000000      0x878
+ .debug_ranges  0x00000000       0xc0 ./MSF/board/frdm_kea/arduino.o
+ .debug_ranges  0x000000c0      0x178 ./MSF/platform/kea/uart_kea.o
+ .debug_ranges  0x00000238       0x88 ./MSF/platform/kea/spi_kea.o
+ .debug_ranges  0x000002c0       0x50 ./MSF/platform/kea/msf.o
+ .debug_ranges  0x00000310      0x138 ./MSF/platform/kea/ftm_kea.o
+ .debug_ranges  0x00000448       0x70 ./MSF/platform/kea/adc_kea.o
+ .debug_ranges  0x000004b8       0x18 ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_ranges  0x000004d0       0x50 ./src/rtc.o
+ .debug_ranges  0x00000520       0x38 ./src/nvic.o
+ .debug_ranges  0x00000558       0x60 ./src/lcd_routines.o
+ .debug_ranges  0x000005b8       0x30 ./src/kbi.o
+ .debug_ranges  0x000005e8       0x10 ./src/ics.o
+ .debug_ranges  0x000005f8      0x140 ./src/LiquidCrystal.o
+ .debug_ranges  0x00000738       0x48 ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_ranges  0x00000780       0xf8 ./src/LCD_DFR0009.o
+
+.debug_macro    0x00000000     0x7c25
+ .debug_macro   0x00000000      0x228 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00000228      0x832 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00000a5a       0x40 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00000a9a       0x16 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00000ab0      0x1c7 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00000c77       0x4c ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00000cc3      0x190 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00000e53       0x16 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00000e69       0x64 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00000ecd      0x178 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00001045      0x147 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x0000118c       0x9d ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00001229       0x10 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00001239      0x1a1 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x000013da       0x39 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00001413       0x3a ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x0000144d       0x1f ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x0000146c      0x250 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x000016bc       0x28 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x000016e4     0x479a ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00005e7e       0x6a ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00005ee8       0xc0 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00005fa8       0x46 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00005fee       0x4c ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x0000603a       0x22 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x0000605c       0xb8 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00006114       0xe8 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x000061fc       0x22 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x0000621e       0xee ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x0000630c       0x9a ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x000063a6      0x1a4 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x0000654a       0x16 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00006560       0x16 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x00006576       0x16 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x0000658c       0x16 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x000065a2       0x8b ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x0000662d       0x22 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x0000664f       0x10 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x0000665f       0x20 ./MSF/board/frdm_kea/arduino.o
+ .debug_macro   0x0000667f      0x157 ./MSF/platform/kea/uart_kea.o
+ .debug_macro   0x000067d6      0x157 ./MSF/platform/kea/spi_kea.o
+ .debug_macro   0x0000692d      0x1a2 ./MSF/platform/kea/msf.o
+ .debug_macro   0x00006acf       0x2e ./MSF/platform/kea/msf.o
+ .debug_macro   0x00006afd      0x157 ./MSF/platform/kea/ftm_kea.o
+ .debug_macro   0x00006c54      0x151 ./MSF/platform/kea/adc_kea.o
+ .debug_macro   0x00006da5       0xbf ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_macro   0x00006e64       0x4b ./Project_Settings/Startup_Code/system_SKEAZ1284.o
+ .debug_macro   0x00006eaf       0xe9 ./src/rtc.o
+ .debug_macro   0x00006f98       0x52 ./src/rtc.o
+ .debug_macro   0x00006fea       0xda ./src/nvic.o
+ .debug_macro   0x000070c4      0x26c ./src/lcd_routines.o
+ .debug_macro   0x00007330       0xb8 ./src/lcd_routines.o
+ .debug_macro   0x000073e8       0x94 ./src/lcd_routines.o
+ .debug_macro   0x0000747c       0xef ./src/kbi.o
+ .debug_macro   0x0000756b       0x10 ./src/kbi.o
+ .debug_macro   0x0000757b       0xd2 ./src/ics.o
+ .debug_macro   0x0000764d      0x197 ./src/LiquidCrystal.o
+ .debug_macro   0x000077e4      0x28f ./src/Lab11_LCD_Arduino_KEA128.o
+ .debug_macro   0x00007a73      0x1b2 ./src/LCD_DFR0009.o
+
+.debug_loc      0x00000000      0xc72
+ .debug_loc     0x00000000      0x133 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(atoi.o)
+ .debug_loc     0x00000133       0x3e C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(exit.o)
+ .debug_loc     0x00000171      0x310 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_loc     0x00000481       0x59 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memcpy.o)
+ .debug_loc     0x000004da       0x6f C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(memset.o)
+ .debug_loc     0x00000549       0x13 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(strlen.o)
+ .debug_loc     0x0000055c      0x18e C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_loc     0x000006ea      0x14a C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(vsscanf.o)
+ .debug_loc     0x00000834      0x113 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_loc     0x00000947       0xb3 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_loc     0x000009fa      0x184 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_loc     0x00000b7e       0xf4 C:/Freescale/S32_ARM_v1.1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
